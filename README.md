@@ -167,14 +167,14 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 * [https://bepal.pro/bepal-pro-s](https://bepal.pro/bepal-pro-s)，Bepal Pro S 硬件钱包，首款支持 EOS 主网生态的硬件钱包（Bepal 轻钱包同步推出）
     - [https://bepal.pro/Download](https://bepal.pro/Download)，冷钱包是冷热交互的，购买冷钱包的同时需要热钱包下载交互，当然同步推出的 EOS 轻钱包，只需下载 App 即可
-* [https://cybex.io](https://cybex.io)，EOS 硬件钱包，宣传视频 [点击此处](https://mp.weixin.qq.com/s/sze83RPM5PS2cmUrqdthlQ)
+* [https://cybex.io](https://cybex.io)，Cybex 出品的 EOS 硬件钱包，宣传视频 [点击此处](https://mp.weixin.qq.com/s/sze83RPM5PS2cmUrqdthlQ)
 
 ### 移动端
 
 * [https://meet.one/pomelo](https://meet.one/pomelo)，MeetOne 出品
 * [http://halowallet.io](http://halowallet.io)，EOS 引力区出品
 * [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip)，EOS Union 出品
-* [https://token.im](https://token.im)，知名以太坊钱包
+* [https://token.im](https://token.im)，知名以太坊钱包，即将支持 EOS 主网投票
 * [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn)，麦子钱包
 * [http://bitpie.com](http://bitpie.com)，比特派，老牌比特币钱包
 * [http://www.eosbixin.com](http://www.eosbixin.com)，Bixin 出品
@@ -182,10 +182,12 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://app.onechain.one](http://app.onechain.one)，ONE，支持 EOS 超级节点投票、领取 EOS 全部糖果、支持 EOS 系所有代币
 * [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans)，币通，一款安全易用的 EOS 钱包，BitPortal 出品
 * [http://www.unlimitedip.io](http://www.unlimitedip.io)，未来版权 Uni-Wallet，宣传视频 [点击此处](https://v.qq.com/x/page/e0685t5ypnp.html)
+* [http://eostoken.im](http://eostoken.im)，安卓版和 iOS 版均可下载
 
 ### Web 钱包
 
 * [https://eoswalletpro.com](https://eoswalletpro.com)，Web 钱包
+* [https://eostea.github.io/eos-wallet](https://eostea.github.io/eos-wallet)，EOSTEA 出品，VUE + JS，开源
 
 ### 浏览器插件钱包
 
@@ -193,7 +195,6 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ### 开源钱包
 
-* [http://eostoken.im](http://eostoken.im)，安卓版和 iOS 版均可下载
 * [https://github.com/EOSPortal](https://github.com/EOSPortal)，GitHub 开源
 * [https://github.com/EOSEssentials/EOSWallet](https://github.com/EOSEssentials/EOSWallet)，较早开源的钱包
 * [https://github.com/espritblock/eos4j](https://github.com/espritblock/eos4j)，GitHub 开源
@@ -202,7 +203,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS)，PocketEOS iOS 版
 * [https://github.com/OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android)，PocketEOS 安卓版
 * [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander)，GitHub 开源
-* [https://eostea.github.io/eos-wallet](https://eostea.github.io/eos-wallet)，EOSTEA 出品，VUE + JS，开源
+* [https://github.com/eostea/eos-wallet](https://github.com/eostea/eos-wallet)，EOSTEA 出品，VUE + JS，开源
 
 ## Dapp
 

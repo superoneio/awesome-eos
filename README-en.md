@@ -161,6 +161,50 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
 * [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
 
+## EOS wallet
+
+### Hardware wallet
+
+* [https://bepal.pro/bepal-pro-s](https://bepal.pro/bepal-pro-s), Bepal Pro S hardware wallet, the first hardware wallet to support the EOS ecosystem(Bepal light wallet synchronization launch)
+    - [https://bepal.pro/Download](https://bepal.pro/Download), the cold wallet is hot and cold interaction. It requires a hot wallet to download and interact with cold wallets. Of course, the EOS wallet, which is launched simultaneously, can be downloaded simply by downloading the App.
+* [https://cybex.io](https://cybex.io), EOS hardware wallet by Cybex, promotion video [click here](https://mp.weixin.qq.com/s/sze83RPM5PS2cmUrqdthlQ)
+
+### Mobile
+
+* [https://meet.one/pomelo](https://meet.one/pomelo), by MeetOne
+* [http://halowallet.io](http://halowallet.io), by EOS Gravity
+* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by EOS Union
+* [https://token.im](https://token.im), well-known Ethereum Wallet, supporting the EOS mainnet voting soon
+* [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn), by MediaShares
+* [http://bitpie.com](http://bitpie.com), Bitpie, well-known Bitcoin Wallet
+* [http://www.eosbixin.com](http://www.eosbixin.com), by Bixin
+* [https://oraclechain.io](https://oraclechain.io), PocketEOS
+* [http://app.onechain.one](http://app.onechain.one), all features you need: super wallet, thunder transfer, decentralized exchange and decentralized chat. ONE for everyone, ONE for you
+* [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans), BitPortal, a Wallet, Portfolio Manager and Exchange for the EOS Community, by BitPortal
+* [http://www.unlimitedip.io](http://www.unlimitedip.io), Uni-Wallet by UnlimitedIP, promotion video [click here](https://v.qq.com/x/page/e0685t5ypnp.html)
+* [http://eostoken.im](http://eostoken.im), Both Android and iOS can be downloaded
+
+### Web wallet
+
+* [https://eoswalletpro.com](https://eoswalletpro.com), Web wallet
+* [https://eostea.github.io/eos-wallet](https://eostea.github.io/eos-wallet), by EOSTEA, VUE + JS, open source
+
+### Chrome extension wallet
+
+* [https://scatter-eos.com](https://scatter-eos.com), Chrome extension wallet, similar to MetaMask
+
+### Open-source wallet
+
+* [https://github.com/EOSPortal](https://github.com/EOSPortal), Open souce on GitHub
+* [https://github.com/EOSEssentials/EOSWallet](https://github.com/EOSEssentials/EOSWallet), Earlier open source wallet
+* [https://github.com/espritblock/eos4j](https://github.com/espritblock/eos4j), Open souce on GitHub
+* [https://github.com/eostoken/wallet](https://github.com/eostoken/wallet), Open souce on GitHub
+* [https://github.com/espritblock/react-native-eos](https://github.com/espritblock/react-native-eos), React
+* [https://github.com/OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS), PocketEOS iOS version
+* [https://github.com/OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android), PocketEOS Android version
+* [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander) Open souce on GitHub
+* [https://github.com/eostea/eos-wallet](https://github.com/eostea/eos-wallet), by EOSTEA, VUE + JS, open source
+
 ## Dapp
 
 ### Dapp Show
