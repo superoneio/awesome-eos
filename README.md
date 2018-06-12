@@ -62,8 +62,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### 主网投票
 
 * [https://github.com/EOSLaoMao/eos-local-voter](https://github.com/EOSLaoMao/eos-local-voter)，老猫团队出品的投票工具
-* [https://github.com/EOSLaoMao/eos-local-voter-desktop](https://github.com/EOSLaoMao/eos-local-voter-desktop)，只有 Mac 客户端
-* [https://github.com/EOSLaoMao/eos-full-node](https://github.com/EOSLaoMao/eos-full-node)，命令行投票指引
+* [https://github.com/EOSLaoMao/eos-local-voter-desktop](https://github.com/EOSLaoMao/eos-local-voter-desktop)，目前只有 Mac 客户端
+* [https://github.com/EOSLaoMao/eos-full-node](https://github.com/EOSLaoMao/eos-full-node)，cleos 命令行投票指引
 * [http://eosportal.io](http://eosportal.io)，较早的投票工具
 * [http://vote.libertyblock.io](http://vote.libertyblock.io)，LibertyBlock 作品
 * [https://tokenika.github.io/secure-bp-voting](https://tokenika.github.io/secure-bp-voting)，展示页有待优化
