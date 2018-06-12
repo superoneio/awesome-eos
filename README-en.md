@@ -187,6 +187,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 ### Web wallet
 
 * [https://eoswalletpro.com](https://eoswalletpro.com), Web wallet
+* [https://wallet.starteos.io](https://wallet.starteos.io), by Starteos
 * [https://eostea.github.io/eos-wallet](https://eostea.github.io/eos-wallet), by EOSTEA, VUE + JS, open source
 
 ### Chrome extension wallet

@@ -187,6 +187,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### Web 钱包
 
 * [https://eoswalletpro.com](https://eoswalletpro.com)，Web 钱包
+* [https://wallet.starteos.io](https://wallet.starteos.io)，Starteos 出品
 * [https://eostea.github.io/eos-wallet](https://eostea.github.io/eos-wallet)，EOSTEA 出品，VUE + JS，开源
 
 ### 浏览器插件钱包
