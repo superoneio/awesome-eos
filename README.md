@@ -183,7 +183,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn)，麦子钱包
 * [http://bitpie.com](http://bitpie.com)，比特派，老牌比特币钱包
 * [http://www.eosbixin.com](http://www.eosbixin.com)，Bixin 出品
-* [https://oraclechain.io](https://oraclechain.io)，PocketEOS
+* [https://pocketeos.com](https://pocketeos.com)，PocketEOS，OracleChain 出品
 * [http://app.onechain.one](http://app.onechain.one)，ONE，支持 EOS 超级节点投票、领取 EOS 全部糖果、支持 EOS 系所有代币
 * [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans)，币通，一款安全易用的 EOS 钱包，BitPortal 出品
 * [http://www.unlimitedip.io](http://www.unlimitedip.io)，未来版权 Uni-Wallet，宣传视频 [点击此处](https://v.qq.com/x/page/e0685t5ypnp.html)

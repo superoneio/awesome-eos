@@ -183,7 +183,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn), by MediaShares
 * [http://bitpie.com](http://bitpie.com), Bitpie, well-known Bitcoin Wallet
 * [http://www.eosbixin.com](http://www.eosbixin.com), by Bixin
-* [https://oraclechain.io](https://oraclechain.io), PocketEOS
+* [https://pocketeos.com](https://pocketeos.com), PocketEOS, by OracleChain
 * [http://app.onechain.one](http://app.onechain.one), all features you need: super wallet, thunder transfer, decentralized exchange and decentralized chat. ONE for everyone, ONE for you
 * [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans), BitPortal, a Wallet, Portfolio Manager and Exchange for the EOS Community, by BitPortal
 * [http://www.unlimitedip.io](http://www.unlimitedip.io), Uni-Wallet by UnlimitedIP, promotion video [click here](https://v.qq.com/x/page/e0685t5ypnp.html)
