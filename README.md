@@ -71,25 +71,6 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://vote.liquideos.com](http://vote.liquideos.com)，做得相对完善，开源，有 Mac 和 Windows 客户端
 * [https://toolkit.genereos.io/tools](https://toolkit.genereos.io/tools)，EOS Toolkit by GenerEOS
 
-## 工具
-
-### 账号相关工具
-
-* [https://github.com/webdigi/EOS-Offline-Private-key-check](https://github.com/webdigi/EOS-Offline-Private-key-check)，EOS 离线公私钥配对检测工具
-* [http://meet.one/eos.html](http://meet.one/eos.html)，EOS Generate and Mapping，MEET.ONE 出品
-* [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale)，Key Gen
-
-### 其他工具
-
-* [http://eosflare.io/account/eosio.names](http://eosflare.io/account/eosio.names)，查看短账号注册情况
-* [https://github.com/tokenbankteam/eos-bp-profile-parser](https://github.com/tokenbankteam/eos-bp-profile-parser)，EOS BP Profile 解析工具
-* [https://github.com/EOSIO/patroneos](https://github.com/EOSIO/patroneos)，RPC Checkpoint for EOS nodes
-* [https://github.com/OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool)，EOS 性能测试工具
-* [http://eosdemo.bec.com](http://eosdemo.bec.com)，EOS 钱包 DEMO 版，美图贝客钱包技术支持
-* [https://github.com/activeeos/eos-helm](https://github.com/activeeos/eos-helm)，Kubernetes Helm charts for the EOS smart contracts platform
-* [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
-* [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
-
 ## 文档
 
 * [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation)，EOSIO Documents
@@ -144,15 +125,34 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/@bytemaster](https://medium.com/@bytemaster)，BM 博客
 * [http://blog.eosdata.io](http://blog.eosdata.io)，EOS 区块链开发指南
 
-## 空投
+### 空投
 
 * [https://www.eosdrops.io](https://www.eosdrops.io)，空投列表集合
 * [https://imeos.one/airdrop](https://imeos.one/airdrop)，IMEOS 出品的空投列表
 
-## 下载
+### 下载
 
 * [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases)，EOSIO 官方版本
 * [https://github.com/EOS-Mainnet/eos/releases](https://github.com/EOS-Mainnet/eos/releases)，EOS-Mainnet 社区维护版本
+
+## 工具
+
+### 账号相关工具
+
+* [https://github.com/webdigi/EOS-Offline-Private-key-check](https://github.com/webdigi/EOS-Offline-Private-key-check)，EOS 离线公私钥配对检测工具
+* [http://meet.one/eos.html](http://meet.one/eos.html)，EOS Generate and Mapping，MEET.ONE 出品
+* [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale)，Key Gen
+
+### 其他工具
+
+* [http://eosflare.io/account/eosio.names](http://eosflare.io/account/eosio.names)，查看短账号注册情况
+* [https://github.com/tokenbankteam/eos-bp-profile-parser](https://github.com/tokenbankteam/eos-bp-profile-parser)，EOS BP Profile 解析工具
+* [https://github.com/EOSIO/patroneos](https://github.com/EOSIO/patroneos)，RPC Checkpoint for EOS nodes
+* [https://github.com/OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool)，EOS 性能测试工具
+* [http://eosdemo.bec.com](http://eosdemo.bec.com)，EOS 钱包 DEMO 版，美图贝客钱包技术支持
+* [https://github.com/activeeos/eos-helm](https://github.com/activeeos/eos-helm)，Kubernetes Helm charts for the EOS smart contracts platform
+* [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
+* [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
 
 ## EOS 钱包
 
