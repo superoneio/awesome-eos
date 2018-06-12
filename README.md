@@ -149,7 +149,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://eos.live](https://eos.live)，EOS 社区首个产品与资讯聚合平台
 * [https://www.eos.top](https://www.eos.top)，EOS 论坛
 * [https://eostalk.io/forums](https://eostalk.io/forums), The EOS Community, beta version, powered by chainbb.com
-* [https://www.helloeos.one](https://www.helloeos.one)，HelloEOS 聚集了国内最强的石墨烯开发力量和最资深的社区参与者，运营有公众号 Hi 区块链、HelloEOS 社区，hibtc.org 资讯平台。
+* [https://www.helloeos.one](https://www.helloeos.one)，HelloEOS 聚集了国内最强的石墨烯开发力量和最资深的社区参与者
 * [http://www.eoschannel.com](http://www.eoschannel.com)，EOS Channel，专注于 EOS 资讯与技术
 * [https://www.huobipool.com/#!/community](https://www.huobipool.com/#!/community)，火币矿池超级社区
 
