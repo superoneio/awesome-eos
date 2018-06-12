@@ -10,6 +10,57 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 [中文](README.md) | [English](README-en.md)
 
+## EOS Mainnet
+
+## Dapp
+
+### Dapp Show
+
+* [https://eosindex.io](https://eosindex.io), Directory of Projects based around EOS
+* [https://imeos.one](https://imeos.one)，proudly presented by IMEOS
+* [https://eos.live](https://eos.live)，proudly presented by SuperONE
+
+### DApp Ecosystem
+
+* [AWOO!](http://wolf.social), A dapp that enables users to collaborate on missions to better society. Goal is to bring peace, prosperity, and abundance.
+* [AZARUS](https://azarus.io), A fair, reliable, and transparent platform to play and bet for tokens. Specifically built towards the video games industry.
+* [Billionaire Token](https://billionairetoken.com), Billionaire Token. Decentralized games on the blockchain such as raffle & burner, dice, and hold’em. The token is deflationary and tokens will be burned every week during the raffle.
+* [Cards & Tokens.](https://presale.cardsandtokens.com/en), Collectible digital card platform where users can upload their content and make money.
+* [Carmel.io](https://carmel.io), Decentralized, open-source educational platform for software developers. Tokens are used to take new challenges to grow your skill set.
+* [Chaince](https://chaince.com), A blockchain asset trading platform focused on EOS projects.
+* [Chintai](https://chintai-eos.io), A global, decentralized EOS token leasing platform.Allows EOS token holders to generate income through token leasing to dapp developers.
+* [DEOS Games](https://deosgames.com/index.html), A zero house edge, gambling platform.
+* [emanate](https://emanate.live), A music-technology platform for collaboration among artists. Powered with smart-contracts, emanate allows artists to monetize their collaborations.
+* [EOS Bet](https://www.eosbet.io), A gambling system where investors can back the house and earn dividends.
+* [EOXCommerceA](https://eoxlab.io), decentralized e-commerce platform that allows EOS based cryptocurrency and crypto-assets to be spent.
+* [EOSfinex](https://eosfinex.com), The world’s first high performance decentralized exchange built by Bitfinex.
+* [EOS Gems](https://eosgems.io), A collectible gem game on the EOS blockchain.
+* [EOS LIVE](https://eos.live)，The first product and information aggregation platform for EOS community.
+* [Everipedia](https://everipedia.org), Next generation encyclopedia forked from Wikipedia but built for the modern age.
+* [HorusPay](https://horuspay.io), Decentralized, global payroll portal that allows companies to exchange private, encrypted data with international payroll vendors.
+* [HireVibes](https://hirevibes.io), One stop hiring shop where employers can advertise job openings for free, crowdsource candidates, communicate, hire, and pay in-app all from one platform.
+* [Insights Network](https://insights.network), Blockchain-based data exchange where users monetize their data.
+* [Karma](http://www.karmaapp.io), KARMA is designed to incentivize users to do good in the world and receive KARMA for helping out mankind.
+* [IRYO](https://iryo.io), Decentralized medical data where patients have control over who can access it and can take it with them.
+* [Lab Ledger](https://labledger.net), A social media, crowdfunding website for scientists.
+* [Onepay](https://one-pay.io), Point of sale (POS) system that allows companies accept major cryptocurrencies.
+* [Oracle Chain](https://oraclechain.io), Linking blockchain technology services with real-life scenarios.
+* [ONO](https://ono.chat), An open-source, decentralized social network which rewards content creators.
+* [Plactal](https://plactal.io), A data-driven, decentralized mobile game advertising platform.
+* [Scatter](https://scatter-eos.com), A wallet for keeping identities and keys safe. The blockchain portion of the project is a reputation and identity layer for building trust in applications and users.
+* [Sense](https://sensetoken.com), Decentralized human information marketplace.
+* [Seyara](https://seyara.io), An open protocol to build truly decentralized peer-to-peer marketplaces.
+* [SFEOS](https://sfeos.io), A player founded, free-to-play, low graphics, highly immersive, turn based, science fiction MMO built on the EOS blockchain.
+* [Starteos](https://wallet.starteos.io), Smart digital wallet with EOS support.
+* [Tokena](https://tokena.co), First EOS based decentralized exchange.
+* [Trade Stuf](https://www.tradestuff.com), Trade Stuff. An efficient, decentralized barter ecosystem built on the EOS blockchain.
+* [TXT](https://txtnet.io), Decentralized advertising economy that pays viewers. Aimed at incentivizing viewers to watch ads where everyone wins.
+* [Uncloak](https://uncloak.io), The world’s first blockchain powered cyber thread solution.
+* [Unico](http://unico.global), Decentralized digital collectables.
+* [Zimbra X](https://info.zimbra.com/zimbra-x-beta), The next generation of the Zimbra email and collaboration platform.
+
+Ref: [EOS dApp Ecosystem](https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e).
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
