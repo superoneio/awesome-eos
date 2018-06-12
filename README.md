@@ -164,13 +164,15 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/@bytemaster](https://medium.com/@bytemaster)，BM 博客
 * [http://blog.eosdata.io](http://blog.eosdata.io)，EOS 区块链开发指南
 
-## Dapp 展示
+## Dapp
+
+### Dapp 展示
 
 * [https://eosindex.io](https://eosindex.io)，Directory of Projects based around EOS
 * [https://imeos.one](https://imeos.one)，IMEOS 团队出品
 * [https://eos.live](https://eos.live)，SuperONE 团队出品
 
-## DApp 生态
+### DApp 生态
 
 * [AWOO!](http://wolf.social), A dapp that enables users to collaborate on missions to better society. Goal is to bring peace, prosperity, and abundance.
 * [AZARUS](https://azarus.io), A fair, reliable, and transparent platform to play and bet for tokens. Specifically built towards the video games industry.
