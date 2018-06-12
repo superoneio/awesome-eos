@@ -98,6 +98,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [Debunking Claimed Vulnerability in EOSIO Smart Contract System](https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428)
 * [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
 * [EOS Node Remote Code Execution Vulnerability](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
+* [Block.one one hackerone](https://hackerone.com/eosio/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Aeosio&page=1&range=forever)
 
 ## 资源
 

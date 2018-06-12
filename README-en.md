@@ -98,6 +98,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [Debunking Claimed Vulnerability in EOSIO Smart Contract System](https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428)
 * [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
 * [EOS Node Remote Code Execution Vulnerability](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
+* [Block.one one hackerone](https://hackerone.com/eosio/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Aeosio&page=1&range=forever)
 
 ## Resources
 
@@ -135,6 +136,30 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases), official release of EOSIO
 * [https://github.com/EOS-Mainnet/eos/releases](https://github.com/EOS-Mainnet/eos/releases), community maintenance version by EOS-Mainnet
 * [EOS.IO Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md), EOS whitepaper
+
+## Tools
+
+### Account related tools
+
+* [https://github.com/webdigi/EOS-Offline-Private-key-check](https://github.com/webdigi/EOS-Offline-Private-key-check), offline public and private key pair check tool of EOS
+* [http://meet.one/eos.html](http://meet.one/eos.html), EOS Generate and Mapping tool by MEET.ONE
+* [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale), Key Gen
+
+### Browser extensions
+
+* [EOS KIT](https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc?hl=en), EOS KIT by MEET.ONE
+* [EOS Price Ticker](https://chrome.google.com/webstore/detail/eos-price-ticker/bpckjjmoaolfmfbcpjmahloicelpffim?hl=en), EOS Price Ticker by SunLabs
+
+### Others
+
+* [http://eosflare.io/account/eosio.names](http://eosflare.io/account/eosio.names), check short account registration
+* [https://github.com/tokenbankteam/eos-bp-profile-parser](https://github.com/tokenbankteam/eos-bp-profile-parser), EOS BP Profile parser
+* [https://github.com/EOSIO/patroneos](https://github.com/EOSIO/patroneos), RPC Checkpoint for EOS nodes
+* [https://github.com/OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool), EOS performance benchmark tool
+* [http://eosdemo.bec.com](http://eosdemo.bec.com), EOS wallet DEMO by Meitu
+* [https://github.com/activeeos/eos-helm](https://github.com/activeeos/eos-helm), Kubernetes Helm charts for the EOS smart contracts platform
+* [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
+* [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
 
 ## Dapp
 
