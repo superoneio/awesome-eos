@@ -120,8 +120,9 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 * [https://www.slowmist.com](https://www.slowmist.com)，专注区块链生态安全
 * [https://peckshield.com](https://peckshield.com), PeckShield is a blockchain security company which aims to elevate the security, privacy, and usability of entire blockchain ecosystem by offering top-notch, industry-leading services and products.
-* [https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428](https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428), Debunking Claimed Vulnerability in EOSIO Smart Contract System
-* [https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer), Prevent DDoS with AWS Network Load Balancer
+* [Debunking Claimed Vulnerability in EOSIO Smart Contract System](https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428)
+* [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
+* [EOS Node Remote Code Execution Vulnerability — EOS WASM Contract Function Table Array Out of Bounds](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
 
 ## 社区
 
