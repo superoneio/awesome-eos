@@ -28,7 +28,8 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/eosauthority/genesis](https://github.com/eosauthority/genesis), EOS Snapshot Generator
 * [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist), EOS bp nodes security checklist, by by Slowmist Team & Joinsec Team, pay honour to them
 * [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md), EOS bp nodes audit checklist, by by Slowmist Team & Joinsec Team, pay honour to them
-* [https://github.com/consenlabs/eos-bp-profile](https://github.com/consenlabs/eos-bp-profile), EOS Block Producer Profile, by imToken
+* [https://github.com/consenlabs/eos-bp-profile](https://github.com/consenlabs/eos-bp-profile), EOS Block Producer Profile，by imToken
+* [https://github.com/onechainone/eos-bp-profile](https://github.com/onechainone/eos-bp-profile), EOS Block Producer Profile, by OneChain
 
 ### Mainnet boot status
 
