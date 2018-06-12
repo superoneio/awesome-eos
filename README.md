@@ -36,7 +36,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ## 映射查询
 
-* [https://www.eoslaomao.com/eos/verify/](https://www.eoslaomao.com/eos/verify)，EOSLaoMao 出品
+* [https://www.eoslaomao.com/eos/verify](https://www.eoslaomao.com/eos/verify)，EOSLaoMao 出品
 * [https://eoscountdown.com](https://eoscountdown.com)，同时提供映射检查功能
 
 ## 区块浏览器
