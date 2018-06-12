@@ -24,8 +24,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://superhero3monitor.eosgreen.io](http://superhero3monitor.eosgreen.io)，EOS Superhero Testnet
 * [https://github.com/eostea/EOS-Boot-Steps-dawn4](https://github.com/eostea/EOS-Boot-Steps-dawn4)，EOSIO - 主网启动演练
 * [https://github.com/eosauthority/genesis](https://github.com/eosauthority/genesis)，EOS Snapshot Generator
-* [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist) EOS 超级节点安全执行指南，慢雾团队出品，致敬
-* [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md) 超级节点安全审计方案，慢雾团队出品，致敬
+* [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist)，EOS 超级节点安全执行指南，慢雾团队出品，致敬
+* [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md)，超级节点安全审计方案，慢雾团队出品，致敬
 * [https://github.com/consenlabs/eos-bp-profile](https://github.com/consenlabs/eos-bp-profile)，EOS Block Producer Profile, imToken 收集
 
 ## 主网启动状态
