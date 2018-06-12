@@ -99,6 +99,43 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
 * [EOS Node Remote Code Execution Vulnerability](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
 
+## Resources
+
+### Community
+
+* [https://eosio.stackexchange.com](https://eosio.stackexchange.com), EOS.IO Stackexchange
+* [https://forums.eosgo.io](https://forums.eosgo.io), EOS Go - Blockchain Community
+* [https://eosfans.io](https://eosfans.io), EOS Chinese community
+* [https://eosforum.org](https://eosforum.org), EOS Community Forum
+* [https://eos.live](https://eos.live), The first product and information aggregation platform for EOS community
+* [https://www.eos.top](https://www.eos.top), EOS forum
+* [https://eostalk.io/forums](https://eostalk.io/forums), The EOS Community, beta version, powered by chainbb.com
+* [https://www.helloeos.one](https://www.helloeos.one), HelloEOS gathers the strongest graphene development forces and the most senior community participants in China
+* [http://www.eoschannel.com](http://www.eoschannel.com), EOS Channel, focus on EOS information and technology
+* [https://www.huobipool.com/#!/community](https://www.huobipool.com/#!/community), Super community by huobipool
+
+### Information
+
+* [https://imeos.one/app](https://imeos.one/app), information portal of EOS ecosystem
+* [https://www.jinse.com](https://www.jinse.com), here, read the blockchain
+
+### Blog
+
+* [https://medium.com/eosio](https://medium.com/eosio), official blog by EOSIO
+* [https://medium.com/@bytemaster](https://medium.com/@bytemaster), blog of BM
+* [http://blog.eosdata.io](http://blog.eosdata.io), development guide of EOS
+
+### Airdrop
+
+* [https://www.eosdrops.io](https://www.eosdrops.io), A collaborative list of projects airdropping free tokens to EOS.IO token holders.
+* [https://imeos.one/airdrop](https://imeos.one/airdrop), airdropping list by IMEOS
+
+### Download
+
+* [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases), official release of EOSIO
+* [https://github.com/EOS-Mainnet/eos/releases](https://github.com/EOS-Mainnet/eos/releases), community maintenance version by EOS-Mainnet
+* [EOS.IO Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md), EOS whitepaper
+
 ## Dapp
 
 ### Dapp Show
