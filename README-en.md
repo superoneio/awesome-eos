@@ -80,6 +80,17 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://www.eosdocs.io](https://www.eosdocs.io), maintained by EOS New York and EOS Nation
 * [https://github.com/EOS-Mainnet/Community-Launch-Docs](https://github.com/EOS-Mainnet/Community-Launch-Docs), Community-Launch-Docs by EOS-Mainnet
 
+## Development
+
+* [https://github.com/EOSIO/eosjs](https://github.com/EOSIO/eosjs), Javascript
+* [eos-go](https://github.com/eoscanada/eos-go), Go library
+* [https://github.com/ProChain/SwiftyEOS](https://github.com/ProChain/SwiftyEOS), Swift library
+* [https://hex.pm/packages/eosrpc](https://hex.pm/packages/eosrpc), Elixir lang library
+* [https://tbfleming.github.io/cib/eos.html](https://tbfleming.github.io/cib/eos.html), C++ -> WASM compiler
+* [https://github.com/OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper), EOSDevHelper is a cross-platform EOS PC wallet tool, which is developed by OracleChain.io
+* [http://eosfactory.io](http://eosfactory.io), EOSFactory is a Python-based smart-contract development & testing framework (Win, Mac, Linux)
+* [https://fibos.io](https://fibos.io), JavaScript Toolchain for EOS
+
 ## Dapp
 
 ### Dapp Show
