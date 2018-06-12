@@ -58,6 +58,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://eos.host/mainnet](http://eos.host/mainnet), presented by ONO
 * [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io), presented by CryptoLions
 * [https://eosauthority.com/voting](https://eosauthority.com/voting), presented by EOS Authority
+* [https://explorer.eoseco.com/voting](https://explorer.eoseco.com/voting), Watching live voting in real time, presented by EOSEco
 
 ### Mainnet voting
 
