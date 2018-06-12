@@ -66,7 +66,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://vote.libertyblock.io](http://vote.libertyblock.io)，LibertyBlock 作品
 * [https://tokenika.github.io/secure-bp-voting](https://tokenika.github.io/secure-bp-voting)，展示页有待优化
 * [https://github.com/greymass/eos-voter](https://github.com/greymass/eos-voter)，开源的投票工具
-* [http://vote.liquideos.com](http://vote.liquideos.com)，做得相对完善，来源，有 Mac 和 Windows 客户端
+* [http://vote.liquideos.com](http://vote.liquideos.com)，做得相对完善，开源，有 Mac 和 Windows 客户端
 * [https://toolkit.genereos.io/tools](https://toolkit.genereos.io/tools)，EOS Toolkit by GenerEOS
 
 ## EOS钱包
