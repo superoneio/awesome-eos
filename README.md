@@ -71,6 +71,9 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/greymass/eos-voter](https://github.com/greymass/eos-voter)，开源的投票工具
 * [http://vote.liquideos.com](http://vote.liquideos.com)，做得相对完善，开源，有 Mac 和 Windows 客户端
 * [https://toolkit.genereos.io/tools](https://toolkit.genereos.io/tools)，EOS Toolkit by GenerEOS
+    - [https://github.com/genereos/eostoolkit](https://github.com/genereos/eostoolkit)，GitHub 源码
+* [EOS 离线投票工具](https://github.com/EOSeco-team/eos-local-voting-page)，EOSeco 出品
+* [https://vote.eosasia.one](https://vote.eosasia.one)，EOS Asia 出品
 
 ## 文档
 

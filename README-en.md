@@ -71,6 +71,9 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/greymass/eos-voter](https://github.com/greymass/eos-voter), open source voting tool
 * [http://vote.liquideos.com](http://vote.liquideos.com), relatively sound, open source, with Mac and Windows clients
 * [https://toolkit.genereos.io/tools](https://toolkit.genereos.io/tools)，EOS Toolkit by GenerEOS
+    - [https://github.com/genereos/eostoolkit](https://github.com/genereos/eostoolkit), GitHub repo
+* [eos-local-voting-page](https://github.com/EOSeco-team/eos-local-voting-page), by EOSeco
+* [https://vote.eosasia.one](https://vote.eosasia.one), by EOS Asia
 
 ## Documents
 
