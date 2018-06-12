@@ -91,6 +91,14 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://eosfactory.io](http://eosfactory.io), EOSFactory is a Python-based smart-contract development & testing framework (Win, Mac, Linux)
 * [https://fibos.io](https://fibos.io), JavaScript Toolchain for EOS
 
+## Security
+
+* [https://www.slowmist.com](https://www.slowmist.com), Focus on blockchain ecosystem security
+* [https://peckshield.com](https://peckshield.com), PeckShield was founded in 2018 by Dr. Jiang Xuxian, a former 360 chief scientist and lifelong professor at North Carolina State University in the United States.
+* [Debunking Claimed Vulnerability in EOSIO Smart Contract System](https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428)
+* [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
+* [EOS Node Remote Code Execution Vulnerability](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
+
 ## Dapp
 
 ### Dapp Show
