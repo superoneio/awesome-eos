@@ -134,6 +134,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 * [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases)，EOSIO 官方版本
 * [https://github.com/EOS-Mainnet/eos/releases](https://github.com/EOS-Mainnet/eos/releases)，EOS-Mainnet 社区维护版本
+* [EOS.IO Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)，EOS 白皮书
 
 ## 工具
 
