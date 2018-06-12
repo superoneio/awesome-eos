@@ -216,4 +216,10 @@ Ref: [https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e](https://mediu
 * [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
 * [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This list is released into the public domain.
+
 SuperONE, robin
