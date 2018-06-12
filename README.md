@@ -215,44 +215,44 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ### DApp 生态
 
-* [AWOO!](http://wolf.social), A dapp that enables users to collaborate on missions to better society. Goal is to bring peace, prosperity, and abundance.
-* [AZARUS](https://azarus.io), A fair, reliable, and transparent platform to play and bet for tokens. Specifically built towards the video games industry.
-* [Billionaire Token](https://billionairetoken.com), Billionaire Token. Decentralized games on the blockchain such as raffle & burner, dice, and hold’em. The token is deflationary and tokens will be burned every week during the raffle.
-* [Cards & Tokens.](https://presale.cardsandtokens.com/en), Collectible digital card platform where users can upload their content and make money.
-* [Carmel.io](https://carmel.io), Decentralized, open-source educational platform for software developers. Tokens are used to take new challenges to grow your skill set.
-* [Chaince](https://chaince.com), A blockchain asset trading platform focused on EOS projects.
-* [Chintai](https://chintai-eos.io), A global, decentralized EOS token leasing platform.Allows EOS token holders to generate income through token leasing to dapp developers.
-* [DEOS Games](https://deosgames.com/index.html), A zero house edge, gambling platform.
-* [emanate](https://emanate.live), A music-technology platform for collaboration among artists. Powered with smart-contracts, emanate allows artists to monetize their collaborations.
-* [EOS Bet](https://www.eosbet.io), A gambling system where investors can back the house and earn dividends.
-* [EOXCommerceA](https://eoxlab.io), decentralized e-commerce platform that allows EOS based cryptocurrency and crypto-assets to be spent.
-* [EOSfinex](https://eosfinex.com), The world’s first high performance decentralized exchange built by Bitfinex.
-* [EOS Gems](https://eosgems.io), A collectible gem game on the EOS blockchain.
-* [EOS LIVE](https://eos.live)，The first product and information aggregation platform for EOS community.
-* [Everipedia](https://everipedia.org), Next generation encyclopedia forked from Wikipedia but built for the modern age.
-* [HorusPay](https://horuspay.io), Decentralized, global payroll portal that allows companies to exchange private, encrypted data with international payroll vendors.
-* [HireVibes](https://hirevibes.io), One stop hiring shop where employers can advertise job openings for free, crowdsource candidates, communicate, hire, and pay in-app all from one platform.
-* [Insights Network](https://insights.network), Blockchain-based data exchange where users monetize their data.
-* [Karma](http://www.karmaapp.io), KARMA is designed to incentivize users to do good in the world and receive KARMA for helping out mankind.
-* [IRYO](https://iryo.io), Decentralized medical data where patients have control over who can access it and can take it with them.
+* [AWOO!](http://wolf.social)，允许用户合作完成共建更好的社会，目标是带来和平，繁荣和丰富
+* [AZARUS](https://azarus.io)，一个公平，可靠，透明的平台，用于玩令牌和下注。专门针对视频游戏行业而构建。
+* [Billionaire Token](https://billionairetoken.com)，致力于成为首个在 EOS 区块链网络上运行的博彩娱乐场。代币通缩机制，通过分布式抽奖和智能合约每周销毁 XBL 代币。
+* [Cards & Tokens.](https://presale.cardsandtokens.com/en)，可收藏的数字卡平台，用户可以上传内容并赚钱
+* [Carmel.io](https://carmel.io)，开源教育平台，可帮助有抱负和经验丰富的软件开发人员通过 token 化同行挑战来增长他们的技能并跟踪他们的成长
+* [Chaince](https://chaince.com)，专注 EOS 生态的区块链资产精品交易平台，支持糖果空投，主打严选项目，不收上币费
+* [Chintai](https://chintai-eos.io)，Chintai 是一个由 EOS 节点候选者 EOS42 团队推出的 EOS 代币租赁平台，EOS 持币者就像是那些持有商业房产的投资客，而开发者是需要租用场地办公定期付租金的公司，双方各取所需，盘活了整个地产市场，而 Chintai 则是不收中介费的链家，这是一门相当有前景的生意
+* [DEOS Games](https://deosgames.com/index.html)，赌场的边缘，赌场的平台
+* [emanate](https://emanate.live)，艺术家之间合作的音乐技术平台。 凭借智能合约，emanate 允许艺术家通过合作获利
+* [EOS Bet](https://www.eosbet.io)，赌博系统，投资者可以支持房屋并获得股息
+* [EOXCommerceA](https://eoxlab.io)，分散的电子商务平台，允许使用基于 EOS 的加密货币和加密资产
+* [EOSfinex](https://eosfinex.com)，著名的交易所 Bitfinex 开发一个高性能、去中心化的交易所
+* [EOS Gems](https://eosgems.io)，EOS 区块链上的收藏宝石游戏
+* [EOS LIVE](https://eos.live)，EOS 社区首个产品与资讯聚合平台
+* [Everipedia](https://everipedia.org)，一个众包的 wiki 平台，在线百科全书和知识库
+* [HorusPay](https://horuspay.io)，分散的全球薪资门户网站，允许公司与国际薪资供应商交换私密的加密数据
+* [HireVibes](https://hirevibes.io)，一个众包型的去中心化求职招聘平台，解决中心化招聘平台收费高匹配度低的痛点
+* [Insights Network](https://insights.network)，基于 EOS 的数据交易市场，用户可以直接出售他们的数据而不需要通过第三方
+* [Karma](http://www.karmaapp.io)，KARMA 旨在激励用户在世界上做得很好，并接受 KARMA 帮助人类
+* [IRYO](https://iryo.io)，去中心化的医疗数据，病人可以控制谁可以使用它并可以随身携带
 * [Lab Ledger](https://labledger.net), A social media, crowdfunding website for scientists.
-* [Onepay](https://one-pay.io), Point of sale (POS) system that allows companies accept major cryptocurrencies.
-* [Oracle Chain](https://oraclechain.io), Linking blockchain technology services with real-life scenarios.
-* [ONO](https://ono.chat), An open-source, decentralized social network which rewards content creators.
-* [Plactal](https://plactal.io), A data-driven, decentralized mobile game advertising platform.
-* [Scatter](https://scatter-eos.com), A wallet for keeping identities and keys safe. The blockchain portion of the project is a reputation and identity layer for building trust in applications and users.
-* [Sense](https://sensetoken.com), Decentralized human information marketplace.
-* [Seyara](https://seyara.io), An open protocol to build truly decentralized peer-to-peer marketplaces.
-* [SFEOS](https://sfeos.io), A player founded, free-to-play, low graphics, highly immersive, turn based, science fiction MMO built on the EOS blockchain.
-* [Starteos](https://wallet.starteos.io), Smart digital wallet with EOS support.
-* [Tokena](https://tokena.co), First EOS based decentralized exchange.
-* [Trade Stuf](https://www.tradestuff.com), Trade Stuff. An efficient, decentralized barter ecosystem built on the EOS blockchain.
-* [TXT](https://txtnet.io), Decentralized advertising economy that pays viewers. Aimed at incentivizing viewers to watch ads where everyone wins.
-* [Uncloak](https://uncloak.io), The world’s first blockchain powered cyber thread solution.
-* [Unico](http://unico.global), Decentralized digital collectables.
-* [Zimbra X](https://info.zimbra.com/zimbra-x-beta), The next generation of the Zimbra email and collaboration platform.
+* [Onepay](https://one-pay.io)，帮助商家接收加密货币的支付钱包，传统的支付系统依靠中央银行和信贷机构，ONEPAY 的去中心化 POS 系统运行在 EOS 区块链上，只需付出一小部分成本即可闪电般交易
+* [Oracle Chain](https://oraclechain.io)，让世界与区块链互联
+* [ONO](https://ono.chat)，一个年轻人泛社交 App，定义了注意力价值，鼓励自由表达。目前社区已经初步形成
+* [Plactal](https://plactal.io)，Plactal 瞄准的是电子游戏市场。它通过收集每个玩家的信息做出分析，然后提供给游戏公司精准的广告投放信息
+* [Scatter](https://scatter-eos.com)，用于保存身份和密钥安全的钱包。 项目的区块链部分是用于在应用程序和用户中建立信任
+* [Sense](https://sensetoken.com)，是一个 P2P 聊天机器人平台，便于任何两个用户通过各种不同的聊天工具实时对话，Sensay 利用人工智能匹配算法找出互相配对的用户
+* [Seyara](https://seyara.io)，一个开放的协议，以建立真正分散的点对点市场
+* [SFEOS](https://sfeos.io)，玩家可以自己创建的，高沉浸式的体验游戏
+* [Starteos](https://wallet.starteos.io)，智能数字钱包，支持 EOS
+* [Tokena](https://tokena.co)，首个基于 EOS 的去中心化交易所
+* [Trade Stuf](https://www.tradestuff.com)，一个建立在 EOS 区块链上的高效，去中心化教育生态系统
+* [TXT](https://txtnet.io)，支付观众的去中心化广告经济。 旨在激励观众观看所有人都获利的广告
+* [Uncloak](https://uncloak.io)，将自己描述为世界上第一个基于区块链技术的网络威胁解决方案，通过一个完全自动化的区块链系统来解决网络威胁的弱点
+* [Unico](http://unico.global)，去中心化数字收藏
+* [Zimbra X](https://info.zimbra.com/zimbra-x-beta)，下一代 Zimbra 电子邮件和协作平台
 
-Ref: [EOS dApp Ecosystem](https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e).
+参考：[EOS dApp Ecosystem](https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e).
 
 ## License
 
