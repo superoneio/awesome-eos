@@ -71,6 +71,15 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://vote.liquideos.com](http://vote.liquideos.com), relatively sound, open source, with Mac and Windows clients
 * [https://toolkit.genereos.io/tools](https://toolkit.genereos.io/tools)，EOS Toolkit by GenerEOS
 
+## Documents
+
+* [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation), EOSIO Documents
+* [https://github.com/EOSIO/eos/wiki](https://github.com/EOSIO/eos/wiki), official Wiki
+* [https://eosio.github.io/eos](https://eosio.github.io/eos), official documents
+* [https://eos.readthedocs.io/zh_CN/latest](https://eos.readthedocs.io/zh_CN/latest), Chinese version of EOSIO documents
+* [https://www.eosdocs.io](https://www.eosdocs.io), maintained by EOS New York and EOS Nation
+* [https://github.com/EOS-Mainnet/Community-Launch-Docs](https://github.com/EOS-Mainnet/Community-Launch-Docs), Community-Launch-Docs by EOS-Mainnet
+
 ## Dapp
 
 ### Dapp Show
