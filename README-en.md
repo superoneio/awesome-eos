@@ -12,13 +12,31 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 ## EOS Mainnet
 
+### Boot related
+
+* [https://github.com/eoscanada/eos-bios](https://github.com/eoscanada/eos-bios), Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad
+* [Ghostbusters-Testnet](https://github.com/HKEOS/Ghostbusters-Testnet), EOS Core-an EOS mainnet launch solution, by HKEOS and EOSRio
+* [https://github.com/winlin/eostoolkit](https://github.com/winlin/eostoolkit)，EOS Toolkit, presented by EOSBixin
+* [https://github.com/EOSArgentina/firestarter](https://github.com/EOSArgentina/firestarter), validation tool by EOSArgentina
+* [https://github.com/eosnewyork/eospy](https://github.com/eosnewyork/eospy), validation tool by EOS NewYork
+* [https://scholar.eosnation.io](https://scholar.eosnation.io), EOSIO Scholar Testnet
+* [https://bp.eosgo.io](https://bp.eosgo.io), EOS Block Producer Candidates show, presented by EOS Go
+* [https://imeos.one/block-producer](https://imeos.one/block-producer), EOS Block Producer Candidates show, presented by IMEOS
+* [http://dev.cryptolions.io](http://dev.cryptolions.io), EOS Jungle Testnet
+* [http://superhero3monitor.eosgreen.io](http://superhero3monitor.eosgreen.io), EOS Superhero Testnet
+* [https://github.com/eostea/EOS-Boot-Steps-dawn4](https://github.com/eostea/EOS-Boot-Steps-dawn4), EOSIO mainnet boot manoeuvre
+* [https://github.com/eosauthority/genesis](https://github.com/eosauthority/genesis), EOS Snapshot Generator
+* [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist), EOS bp nodes security checklist, by by Slowmist Team & Joinsec Team, pay honour to them
+* [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md), EOS bp nodes audit checklist, by by Slowmist Team & Joinsec Team, pay honour to them
+* [https://github.com/consenlabs/eos-bp-profile](https://github.com/consenlabs/eos-bp-profile), EOS Block Producer Profile, by imToken
+
 ## Dapp
 
 ### Dapp Show
 
 * [https://eosindex.io](https://eosindex.io), Directory of Projects based around EOS
-* [https://imeos.one](https://imeos.one)，proudly presented by IMEOS
-* [https://eos.live](https://eos.live)，proudly presented by SuperONE
+* [https://imeos.one](https://imeos.one)，presented by IMEOS
+* [https://eos.live](https://eos.live)，presented by SuperONE
 
 ### DApp Ecosystem
 

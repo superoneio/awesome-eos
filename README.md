@@ -15,8 +15,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### 主网启动相关
 
 * [https://github.com/eoscanada/eos-bios](https://github.com/eoscanada/eos-bios)，Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad
-* [Ghostbusters-Testnet](https://github.com/HKEOS/Ghostbusters-Testnet)，EOS Core- an EOS mainnet launch solution, by HKEOS and EOSRio
-* [https://github.com/winlin/eostoolkit](https://github.com/winlin/eostoolkit)，EOS 工具，EOS Bixin 出品
+* [Ghostbusters-Testnet](https://github.com/HKEOS/Ghostbusters-Testnet)，EOS Core-an EOS mainnet launch solution, by HKEOS and EOSRio
+* [https://github.com/winlin/eostoolkit](https://github.com/winlin/eostoolkit)，EOS 工具，EOSBixin 出品
 * [https://github.com/EOSArgentina/firestarter](https://github.com/EOSArgentina/firestarter)，验证工具 by EOSArgentina
 * [https://github.com/eosnewyork/eospy](https://github.com/eosnewyork/eospy)，验证工具 by EOS NewYork
 * [https://scholar.eosnation.io](https://scholar.eosnation.io)，EOSIO Scholar Testnet
