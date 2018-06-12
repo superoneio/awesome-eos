@@ -144,6 +144,11 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://meet.one/eos.html](http://meet.one/eos.html)，EOS Generate and Mapping，MEET.ONE 出品
 * [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale)，Key Gen
 
+### 浏览器插件
+
+* [EOS KIT](https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc?hl=en)，EOS 工具，by MEET.ONE
+* [EOS Price Ticker](https://chrome.google.com/webstore/detail/eos-price-ticker/bpckjjmoaolfmfbcpjmahloicelpffim?hl=en)，EOS 价格跟踪
+
 ### 其他工具
 
 * [http://eosflare.io/account/eosio.names](http://eosflare.io/account/eosio.names)，查看短账号注册情况
