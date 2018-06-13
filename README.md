@@ -136,6 +136,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/eosio](https://medium.com/eosio)，EOS 官方博客
 * [https://medium.com/@bytemaster](https://medium.com/@bytemaster)，BM 博客
 * [http://blog.eosdata.io](http://blog.eosdata.io)，EOS 区块链开发指南
+* [https://medium.com/blockproducers](https://medium.com/blockproducers)，EOS 区块链矿工和出块节点背后的故事
 
 ### 空投
 

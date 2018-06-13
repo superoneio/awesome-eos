@@ -136,6 +136,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://medium.com/eosio](https://medium.com/eosio), official blog by EOSIO
 * [https://medium.com/@bytemaster](https://medium.com/@bytemaster), blog of BM
 * [http://blog.eosdata.io](http://blog.eosdata.io), development guide of EOS
+* [https://medium.com/blockproducers](https://medium.com/blockproducers), The tales of the miners and block producers behind the chains
 
 ### Airdrop
 
