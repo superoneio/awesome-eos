@@ -150,6 +150,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/webdigi/EOS-Offline-Private-key-check](https://github.com/webdigi/EOS-Offline-Private-key-check), offline public and private key pair check tool of EOS
 * [http://meet.one/eos.html](http://meet.one/eos.html), EOS Generate and Mapping tool by MEET.ONE
 * [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale), Key Gen
+* [https://eosfans.io/tools/generate](https://eosfans.io/tools/generate), One-click generation private key and pulic key, by EOSTEA
 
 ### Browser extensions
 
