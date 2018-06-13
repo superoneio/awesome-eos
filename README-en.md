@@ -190,6 +190,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans), BitPortal, a Wallet, Portfolio Manager and Exchange for the EOS Community, by BitPortal
 * [http://www.unlimitedip.io](http://www.unlimitedip.io), Uni-Wallet by UnlimitedIP, promotion video [click here](https://v.qq.com/x/page/e0685t5ypnp.html)
 * [http://eostoken.im](http://eostoken.im), Both Android and iOS can be downloaded
+* [https://more.top](https://more.top), MORE by EOSMeetOne
 
 ### Web wallet
 

@@ -190,6 +190,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://www.bitportal.io/zh-hans](https://www.bitportal.io/zh-hans)，币通，一款安全易用的 EOS 钱包，BitPortal 出品
 * [http://www.unlimitedip.io](http://www.unlimitedip.io)，未来版权 Uni-Wallet，宣传视频 [点击此处](https://v.qq.com/x/page/e0685t5ypnp.html)
 * [http://eostoken.im](http://eostoken.im)，安卓版和 iOS 版均可下载
+* [https://more.top](https://more.top)，EOSMeetOne 出品的 MORE 钱包
 
 ### Web 钱包
 
