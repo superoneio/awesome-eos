@@ -138,6 +138,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/@bytemaster](https://medium.com/@bytemaster)，BM 博客
 * [http://blog.eosdata.io](http://blog.eosdata.io)，EOS 区块链开发指南
 * [https://medium.com/blockproducers](https://medium.com/blockproducers)，EOS 区块链矿工和出块节点背后的故事
+* [https://bihu.com/people/9457](https://bihu.com/people/9457)，EOS Cannon 技术总监 Bean 币乎首页
+* [https://bihu.com/people/5402](https://bihu.com/people/5402)，荆凯币乎首页
 
 ### 空投
 
