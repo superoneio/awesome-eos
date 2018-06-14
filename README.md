@@ -60,6 +60,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io)，CryptoLions 出品
 * [https://eosauthority.com/voting](https://eosauthority.com/voting)，EOS Authority 团队作品
 * [https://explorer.eoseco.com/voting](https://explorer.eoseco.com/voting)，实时观看投票最新排名，EOSEco 出品
+* [https://eosquery.com](https://eosquery.com)，EOS Canada 出品
 
 ### 主网投票
 
