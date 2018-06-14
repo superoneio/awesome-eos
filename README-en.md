@@ -140,6 +140,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://medium.com/blockproducers](https://medium.com/blockproducers), The tales of the miners and block producers behind the chains
 * [https://bihu.com/people/9457](https://bihu.com/people/9457), EOS Cannon CTO Bean's Bihu homepage
 * [https://bihu.com/people/5402](https://bihu.com/people/5402), shuke037's Bihu homepage
+* [http://www.cnblogs.com/Evsward](http://www.cnblogs.com/Evsward), blog of Evsward
 
 ### Airdrop
 
