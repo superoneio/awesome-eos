@@ -61,6 +61,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://eosauthority.com/voting](https://eosauthority.com/voting)，EOS Authority 团队作品
 * [https://explorer.eoseco.com/voting](https://explorer.eoseco.com/voting)，实时观看投票最新排名，EOSEco 出品
 * [https://eosquery.com](https://eosquery.com)，EOS Canada 出品
+* [https://votetracker.eosmedi.com](https://votetracker.eosmedi.com)，EOS Voter Tracker，EOS Mediterranean 出品
+* [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30)，来自 dapptools.info
 
 ### 主网投票
 
@@ -270,6 +272,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [Uncloak](https://uncloak.io)，将自己描述为世界上第一个基于区块链技术的网络威胁解决方案，通过一个完全自动化的区块链系统来解决网络威胁的弱点
 * [Unico](http://unico.global)，去中心化数字收藏
 * [Zimbra X](https://info.zimbra.com/zimbra-x-beta)，下一代 Zimbra 电子邮件和协作平台
+* [EOS 超级矿工](http://eosminer.vip)，EOS Asia 孵化的一款游戏：EOS 超级旷工，不发币，直接使用 EOS，奖池的 90% 左右的 EOS 全部返还给玩家，排行榜动态设计，保证后来的玩家的公平，总之我玩了几天感觉上手容易，既公平，也有趣味性，很快就上线，预约地址 http://eosminer.vip
 
 参考：[EOS dApp Ecosystem](https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e).
 

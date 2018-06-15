@@ -61,6 +61,8 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://eosauthority.com/voting](https://eosauthority.com/voting), presented by EOS Authority
 * [https://explorer.eoseco.com/voting](https://explorer.eoseco.com/voting), Watching live voting in real time, presented by EOSEco
 * [https://eosquery.com](https://eosquery.com), presented by EOS Canada
+* [https://votetracker.eosmedi.com](https://votetracker.eosmedi.com), EOS Voter Tracker by EOS Mediterranean
+* [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30), from dapptools.info
 
 ### Mainnet voting
 
@@ -270,6 +272,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [Uncloak](https://uncloak.io), The world’s first blockchain powered cyber thread solution.
 * [Unico](http://unico.global), Decentralized digital collectables.
 * [Zimbra X](https://info.zimbra.com/zimbra-x-beta), The next generation of the Zimbra email and collaboration platform.
+* [EOS Miner](http://eosminer.vip), A game incubated by EOS Asia: EOS Super Miner, does not issue token, uses EOS directly. About 90% of the prize pool's EOS is returned to the player. The dynamic design of the leaderboard guarantees the fairness of subsequent players. In short, I played for a few days. It's easy to get started, fair and fun, and it's time to go online. Make an appointment at http://eosminer.vip
 
 Ref: [EOS dApp Ecosystem](https://medium.com/eostribe/eos-dapp-ecosystem-450fb6dac39e).
 
