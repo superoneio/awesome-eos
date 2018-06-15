@@ -84,6 +84,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html)，ONEChain 出品
 * [https://halowallet.io](https://halowallet.io)，EOS 引力区出品
 * [https://bepal.pro/Download](https://bepal.pro/Download)，Bepal 出品
+* [https://eos.live](https://eos.live)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册等功能，SuperONE 团队会于近期发布，尽请期待。
 
 ## 文档
 
@@ -203,6 +204,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://www.unlimitedip.io](http://www.unlimitedip.io)，未来版权 Uni-Wallet，宣传视频 [点击此处](https://v.qq.com/x/page/e0685t5ypnp.html)
 * [http://eostoken.im](http://eostoken.im)，安卓版和 iOS 版均可下载
 * [https://more.top](https://more.top)，EOSMeetOne 出品的 MORE 钱包
+* [https://eos.live](https://eos.live)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册等功能，SuperONE 团队会于近期发布，尽请期待。
 
 ### Web 钱包
 

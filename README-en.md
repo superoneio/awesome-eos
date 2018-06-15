@@ -84,6 +84,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html), by ONEChain
 * [https://halowallet.io](https://halowallet.io), by EOS Gravity
 * [https://bepal.pro/Download](https://bepal.pro/Download), by Bepal
+* [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS Super Node voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
 
 ## Documents
 
@@ -203,6 +204,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://www.unlimitedip.io](http://www.unlimitedip.io), Uni-Wallet by UnlimitedIP, promotion video [click here](https://v.qq.com/x/page/e0685t5ypnp.html)
 * [http://eostoken.im](http://eostoken.im), Both Android and iOS can be downloaded
 * [https://more.top](https://more.top), MORE by EOSMeetOne
+* [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS Super Node voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
 
 ### Web wallet
 
