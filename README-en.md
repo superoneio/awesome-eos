@@ -80,7 +80,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://vote.eosasia.one](https://vote.eosasia.one), by EOS Asia
 * [http://eosvoter.eosphere.io/vote](http://eosvoter.eosphere.io/vote), by EOSPhere
 * [https://token.im/download](https://token.im/download), imToken 2.0 support EOS super node voting
-* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by EOS Union
+* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by Token Pocket team
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html), by ONEChain
 * [https://halowallet.io](https://halowallet.io), by EOS Gravity
 * [https://bepal.pro/Download](https://bepal.pro/Download), by Bepal

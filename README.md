@@ -80,7 +80,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://vote.eosasia.one](https://vote.eosasia.one)，EOS Asia 出品
 * [http://eosvoter.eosphere.io/vote](http://eosvoter.eosphere.io/vote)，EOSPhere 出品
 * [https://token.im/download](https://token.im/download)，imToken 2.0 支持 EOS 超级节点投票
-* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip)，EOS Union 出品
+* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip)，Token Pocket 团队出品
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html)，ONEChain 出品
 * [https://halowallet.io](https://halowallet.io)，EOS 引力区出品
 * [https://bepal.pro/Download](https://bepal.pro/Download)，Bepal 出品
