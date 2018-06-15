@@ -193,7 +193,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 * [https://meet.one/pomelo](https://meet.one/pomelo), by MeetOne
 * [http://halowallet.io](http://halowallet.io), by EOS Gravity
-* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by EOS Union
+* [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by Token Pocket team
 * [https://token.im](https://token.im), well-known Ethereum Wallet, supporting the EOS mainnet voting soon
 * [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn), by MediaShares
 * [http://bitpie.com](http://bitpie.com), Bitpie, well-known Bitcoin Wallet
