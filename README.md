@@ -84,7 +84,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html)，ONEChain 出品
 * [https://halowallet.io](https://halowallet.io)，EOS 引力区出品
 * [https://bepal.pro/Download](https://bepal.pro/Download)，Bepal 出品
-* [https://eos.live](https://eos.live)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册等功能，SuperONE 团队会于近期发布，尽请期待。
+* [https://eos.live](https://eos.live)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册等功能，SuperONE 团队会于近期发布，尽请期待
+* [https://github.com/eoscanada/eosc](https://github.com/eoscanada/eosc)，eosc 是一个跨平台的命令行工具 (支持 Windows, Mac 和 Linux)，你可以通过这个工具实现与 EOS.IO 区块链的交互，EOS Canada 出品
 
 ## 文档
 
