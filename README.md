@@ -165,6 +165,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [http://meet.one/eos.html](http://meet.one/eos.html)，EOS Generate and Mapping，MEET.ONE 出品
 * [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale)，Key Gen
 * [https://eosfans.io/tools/generate](https://eosfans.io/tools/generate)，一键生成私钥/公钥，EOSTEA 出品
+* [get-eoskey-from-ethkey](https://github.com/tokenbankteam/get-eoskey-from-ethkey)，用你的以太坊私钥找回丢失的 EOS，访问 [http://getfallbackeos.mytokenpocket.vip](http://getfallbackeos.mytokenpocket.vip)
 
 ### 浏览器插件
 
