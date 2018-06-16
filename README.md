@@ -114,6 +114,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [Prevent DDoS with AWS Network Load Balancer](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
 * [EOS Node Remote Code Execution Vulnerability](http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability)
 * [Block.one one hackerone](https://hackerone.com/eosio/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Aall%20to%3Aeosio&page=1&range=forever)
+* [HOW TO GENERATE YOUR FALLBACK EOS KEY BASED ON YOUR ETHEREUM PRIVATE KEY](https://eosauthority.com/blog/how_to_generate_your_EOS_fallback_key_from_ethereum_private_key)
 
 ## 资源
 
