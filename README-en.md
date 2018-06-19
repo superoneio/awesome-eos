@@ -246,6 +246,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 ### DApp Ecosystem
 
+* [EOS LIVE](https://eos.live)，The first product and information aggregation platform for EOS community.
 * [AWOO!](http://wolf.social), A dapp that enables users to collaborate on missions to better society. Goal is to bring peace, prosperity, and abundance.
 * [AZARUS](https://azarus.io), A fair, reliable, and transparent platform to play and bet for tokens. Specifically built towards the video games industry.
 * [Billionaire Token](https://billionairetoken.com), Billionaire Token. Decentralized games on the blockchain such as raffle & burner, dice, and hold’em. The token is deflationary and tokens will be burned every week during the raffle.
@@ -259,7 +260,6 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [EOXCommerceA](https://eoxlab.io), decentralized e-commerce platform that allows EOS based cryptocurrency and crypto-assets to be spent.
 * [EOSfinex](https://eosfinex.com), The world’s first high performance decentralized exchange built by Bitfinex.
 * [EOS Gems](https://eosgems.io), A collectible gem game on the EOS blockchain.
-* [EOS LIVE](https://eos.live)，The first product and information aggregation platform for EOS community.
 * [Everipedia](https://everipedia.org), Next generation encyclopedia forked from Wikipedia but built for the modern age.
 * [HorusPay](https://horuspay.io), Decentralized, global payroll portal that allows companies to exchange private, encrypted data with international payroll vendors.
 * [HireVibes](https://hirevibes.io), One stop hiring shop where employers can advertise job openings for free, crowdsource candidates, communicate, hire, and pay in-app all from one platform.

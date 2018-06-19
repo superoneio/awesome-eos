@@ -246,6 +246,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ### DApp 生态
 
+* [EOS LIVE](https://eos.live)，EOS 社区首个产品与资讯聚合平台
 * [AWOO!](http://wolf.social)，允许用户合作完成共建更好的社会，目标是带来和平，繁荣和丰富
 * [AZARUS](https://azarus.io)，一个公平，可靠，透明的平台，用于玩令牌和下注。专门针对视频游戏行业而构建。
 * [Billionaire Token](https://billionairetoken.com)，致力于成为首个在 EOS 区块链网络上运行的博彩娱乐场。代币通缩机制，通过分布式抽奖和智能合约每周销毁 XBL 代币。
@@ -259,7 +260,6 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [EOXCommerceA](https://eoxlab.io)，分散的电子商务平台，允许使用基于 EOS 的加密货币和加密资产
 * [EOSfinex](https://eosfinex.com)，著名的交易所 Bitfinex 开发一个高性能、去中心化的交易所
 * [EOS Gems](https://eosgems.io)，EOS 区块链上的收藏宝石游戏
-* [EOS LIVE](https://eos.live)，EOS 社区首个产品与资讯聚合平台
 * [Everipedia](https://everipedia.org)，一个众包的 wiki 平台，在线百科全书和知识库
 * [HorusPay](https://horuspay.io)，分散的全球薪资门户网站，允许公司与国际薪资供应商交换私密的加密数据
 * [HireVibes](https://hirevibes.io)，一个众包型的去中心化求职招聘平台，解决中心化招聘平台收费高匹配度低的痛点
