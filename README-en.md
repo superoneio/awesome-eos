@@ -87,6 +87,10 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS Super Node voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
 * [https://github.com/eoscanada/eosc](https://github.com/eoscanada/eosc), eosc is a cross-platform (Windows, Mac and Linux) command-line tool for interacting with an EOS.IO blockchain, by EOS Canada
 
+### DevOps
+
+* [https://github.com/BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover), EOS Block Producer Failover Scripts, by Block Matrix
+
 ## Documents
 
 * [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation), EOSIO Documents

@@ -87,6 +87,10 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://eos.live](https://eos.live)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册等功能，SuperONE 团队会于近期发布，尽请期待
 * [https://github.com/eoscanada/eosc](https://github.com/eoscanada/eosc)，eosc 是一个跨平台的命令行工具 (支持 Windows, Mac 和 Linux)，你可以通过这个工具实现与 EOS.IO 区块链的交互，EOS Canada 出品
 
+### DevOps
+
+* [https://github.com/BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover)，EOS 出块节点切换脚本，by Block Matrix
+
 ## 文档
 
 * [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation)，EOSIO Documents
