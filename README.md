@@ -90,6 +90,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### DevOps
 
 * [https://github.com/BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover)，EOS 出块节点切换脚本，by Block Matrix
+* [https://github.com/eossv/bp-monitor](https://github.com/eossv/bp-monitor)，通过 head_block_time 检测节点出块状态，支持 email 提醒，也可配置电话/短信/自定义提醒，by EOS Silicon Valley
 
 ## 文档
 
