@@ -55,6 +55,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### 区块浏览器
 
 * [http://eostracker.io](http://eostracker.io)，较早开源的 EOS 区块链浏览器
+    - [GitHub](https://github.com/EOSEssentials/EOSTracker)
     - [账户信息](https://eostracker.io/accounts)
     - [区块信息](https://eostracker.io/blocks)
     - [交易信息](https://eostracker.io/transactions)

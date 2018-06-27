@@ -55,6 +55,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 ### Explorer
 
 * [http://eostracker.io](http://eostracker.io), earlier open source EOS blockchain browser
+    - [GitHub](https://github.com/EOSEssentials/EOSTracker)
     - [Account Information](https://eostracker.io/accounts)
     - [Block Information](https://eostracker.io/blocks)
     - [Transaction Information](https://eostracker.io/transactions)
