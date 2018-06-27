@@ -159,6 +159,10 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://www.eosdrops.io](https://www.eosdrops.io)，空投列表集合
 * [https://imeos.one/airdrop](https://imeos.one/airdrop)，IMEOS 出品的空投列表
 
+### 导航
+
+* [https://index.eoscannon.io](https://index.eoscannon.io)，EOS 导航，by EOS Cannon
+
 ### 下载
 
 * [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases)，EOSIO 官方版本

@@ -159,6 +159,10 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://www.eosdrops.io](https://www.eosdrops.io), A collaborative list of projects airdropping free tokens to EOS.IO token holders.
 * [https://imeos.one/airdrop](https://imeos.one/airdrop), airdropping list by IMEOS
 
+### Navigation
+
+* [https://index.eoscannon.io](https://index.eoscannon.io), EOS Navigation, by EOS Cannon
+
 ### Download
 
 * [https://github.com/EOSIO/eos/releases](https://github.com/EOSIO/eos/releases), official release of EOSIO
