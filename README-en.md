@@ -103,6 +103,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://eosquery.com](https://eosquery.com), presented by EOS Canada
 * [https://votetracker.eosmedi.com](https://votetracker.eosmedi.com), EOS Voter Tracker by EOS Mediterranean
 * [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30), from dapptools.info
+* [Block Producer Vote Accounting Diversity Statistics](http://eos-bp-votes.dapptools.info/#/block-producers), from dapptools.info
 
 ### Mainnet voting
 

@@ -103,6 +103,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://eosquery.com](https://eosquery.com)，EOS Canada 出品
 * [https://votetracker.eosmedi.com](https://votetracker.eosmedi.com)，EOS Voter Tracker，EOS Mediterranean 出品
 * [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30)，来自 dapptools.info
+* [超级节点投票占比多样性统计](http://eos-bp-votes.dapptools.info/#/block-producers)，来自 dapptools.info
 
 ### 主网投票
 
