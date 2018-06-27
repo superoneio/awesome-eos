@@ -170,6 +170,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 * [https://eosio.stackexchange.com](https://eosio.stackexchange.com)，EOS.IO Stackexchange
 * [https://forums.eosgo.io](https://forums.eosgo.io)，EOS Go - Blockchain Community
+* [https://forums.eosgo.io/categories/chinese](https://forums.eosgo.io/categories/chinese)，EOS Go 中文
 * [https://eosfans.io](https://eosfans.io)，EOS 中文社区
 * [https://eosforum.org](https://eosforum.org)，EOS Community Forum
 * [https://eos.live](https://eos.live)，EOS 社区首个产品与资讯聚合平台

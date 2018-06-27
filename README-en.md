@@ -170,6 +170,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 * [https://eosio.stackexchange.com](https://eosio.stackexchange.com), EOS.IO Stackexchange
 * [https://forums.eosgo.io](https://forums.eosgo.io), EOS Go - Blockchain Community
+* [https://forums.eosgo.io/categories/chinese](https://forums.eosgo.io/categories/chinese), EOS Go Chinese
 * [https://eosfans.io](https://eosfans.io), EOS Chinese community
 * [https://eosforum.org](https://eosforum.org), EOS Community Forum
 * [https://eos.live](https://eos.live), The first product and information aggregation platform for EOS community
