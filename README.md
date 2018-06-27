@@ -153,6 +153,18 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper)，EOSDevHelper 是一个跨平台 PC 端 EOS 钱包工具，由 OracleChain 团队研发
 * [http://eosfactory.io](http://eosfactory.io)，基于 Python 的智能合约开发和测试框架（Win, Mac, Linux）
 * [https://fibos.io](https://fibos.io)，为 EOS 而生的 JavaScript 工具链
+* [developers.eos.io](https://developers.eos.io)
+    - [概述](https://developers.eos.io/eosio-home/docs)
+    - [快速起步](https://developers.eos.io/eosio-nodeos/docs/overview-1)
+    - [进阶指南](https://developers.eos.io/eosio-nodeos/docs/bios-boot-sequence)
+    - [构建 EOSIO](https://developers.eos.io/eosio-nodeos/docs/getting-the-code)
+    - [插件](https://developers.eos.io/eosio-nodeos/docs/history_api_plugin)
+    - [智能合约](https://developers.eos.io/eosio-cpp/docs)
+    - [cleos](https://developers.eos.io/eosio-nodeos/docs/cleos-overview)
+    - [keosd](https://developers.eos.io/eosio-nodeos/docs/keosd-overview)
+    - [nodeos](https://developers.eos.io/eosio-nodeos/docs/configuration-file)
+    - [C/C++ API](https://developers.eos.io/eosio-cpp/reference)
+    - [HTTP API](https://developers.eos.io/eosio-nodeos/reference)
 
 ## 安全
 

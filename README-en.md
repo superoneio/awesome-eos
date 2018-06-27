@@ -153,6 +153,18 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper), EOSDevHelper is a cross-platform EOS PC wallet tool, which is developed by OracleChain.io
 * [http://eosfactory.io](http://eosfactory.io), EOSFactory is a Python-based smart-contract development & testing framework (Win, Mac, Linux)
 * [https://fibos.io](https://fibos.io), JavaScript Toolchain for EOS
+* [developers.eos.io](https://developers.eos.io)
+    - [Summary](https://developers.eos.io/eosio-home/docs)
+    - [Overview](https://developers.eos.io/eosio-nodeos/docs/overview-1)
+    - [Advanced guide](https://developers.eos.io/eosio-nodeos/docs/bios-boot-sequence)
+    - [Build EOSIO](https://developers.eos.io/eosio-nodeos/docs/getting-the-code)
+    - [Plugin](https://developers.eos.io/eosio-nodeos/docs/history_api_plugin)
+    - [Smart Contracts](https://developers.eos.io/eosio-cpp/docs)
+    - [cleos](https://developers.eos.io/eosio-nodeos/docs/cleos-overview)
+    - [keosd](https://developers.eos.io/eosio-nodeos/docs/keosd-overview)
+    - [nodeos](https://developers.eos.io/eosio-nodeos/docs/configuration-file)
+    - [C/C++ API](https://developers.eos.io/eosio-cpp/reference)
+    - [HTTP API](https://developers.eos.io/eosio-nodeos/reference)
 
 ## Security
 
