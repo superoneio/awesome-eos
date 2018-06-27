@@ -50,6 +50,11 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### 区块浏览器
 
 * [http://eostracker.io](http://eostracker.io)，较早开源的 EOS 区块链浏览器
+    - [账户信息](https://eostracker.io/accounts)
+    - [区块信息](https://eostracker.io/blocks)
+    - [交易信息](https://eostracker.io/transactions)
+    - [Action 信息](https://eostracker.io/actions)
+    - [超级节点](https://eostracker.io/producers)
 * [https://explorer.eoseco.com](https://explorer.eoseco.com)，EOS 生态区出品
 * [https://eosblock.co](https://eosblock.co)，EOSpace 出品
 * [http://scaneos.io](http://scaneos.io)，ScanEOS 是全球首个专注于 EOS 生态的专业区块链浏览器和数据分析平台
