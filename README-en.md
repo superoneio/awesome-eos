@@ -70,6 +70,10 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Vote](https://explorer.eoseco.com/voting)
     - [Transfer](https://explorer.eoseco.com/sending)
     - [Snapshots Query](https://explorer.eoseco.com/snapshots)
+    - [RAM Price](https://explorer.eoseco.com)
+    - [Network Computing Costs](https://explorer.eoseco.com)
+    - [Calculate Resource Costs](https://explorer.eoseco.com)
+    - [RAM Occupancy Rate](https://explorer.eoseco.com)
 * [https://eosblock.co](https://eosblock.co), presented by EOSpace
 * [http://scaneos.io](http://scaneos.io), ScanEOS is the world's first professional blockchain explorer and data analysis platform that focuses on EOS ecosystem
     - [Account Information](https://scaneos.io/accounts)

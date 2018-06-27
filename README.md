@@ -70,6 +70,10 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [投票](https://explorer.eoseco.com/voting)
     - [发送交易](https://explorer.eoseco.com/sending)
     - [映射查询](https://explorer.eoseco.com/snapshots)
+    - [RAM(内存) 价格](https://explorer.eoseco.com)
+    - [网络计算成本](https://explorer.eoseco.com)
+    - [计算资源成本](https://explorer.eoseco.com)
+    - [RAM(内存) 占用率](https://explorer.eoseco.com)
 * [https://eosblock.co](https://eosblock.co)，EOSpace 出品
 * [http://scaneos.io](http://scaneos.io)，ScanEOS 是全球首个专注于 EOS 生态的专业区块链浏览器和数据分析平台
     - [账户信息](https://scaneos.io/accounts)
