@@ -87,6 +87,11 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Transaction Information](https://eosmonitor.io/transactions)
     - [Token Information](https://eosmonitor.io/coins)
     - [Block Producer](https://eosmeta.io)
+* [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io), by CryptoLions
+    - [Account Information](http://eosnetworkmonitor.io/#accountInfo:superoneiobp)
+    - [Block Information](http://eosnetworkmonitor.io)
+    - [Transaction Information](http://eosnetworkmonitor.io/#tx)
+    - [Block Producer](http://eosnetworkmonitor.io)
 
 ### Mainnet voting status
 

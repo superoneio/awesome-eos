@@ -87,6 +87,11 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [交易信息](https://eosmonitor.io/transactions)
     - [Token 信息](https://eosmonitor.io/coins)
     - [超级节点](https://eosmeta.io)
+* [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io)，CryptoLions 出品
+    - [账户信息](http://eosnetworkmonitor.io/#accountInfo:superoneiobp)
+    - [区块信息](http://eosnetworkmonitor.io)
+    - [交易信息](http://eosnetworkmonitor.io/#tx)
+    - [超级节点](http://eosnetworkmonitor.io)
 
 ### 主网投票状态
 
