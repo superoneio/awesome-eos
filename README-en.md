@@ -16,6 +16,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 * [https://eos.live](https://eos.live), EOS block producer candidate list, by SuperONE
 * [https://www.imeos.one/block-producer](https://www.imeos.one/block-producer), EOS block producer candidate list, by IMEOS
+* [https://eosnodes.privex.io](https://eosnodes.privex.io), by privex.io
 
 ### GitHub
 
@@ -143,6 +144,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 ## Documents
 
 * [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation), EOSIO Documents
+* [TechnicalWhitePaper.md](https://github.com/EOSIO/Documentation/blob/master/zh-CN/TechnicalWhitePaper.md), Technical WhitePaper
 * [https://github.com/EOSIO/eos/wiki](https://github.com/EOSIO/eos/wiki), official Wiki
 * [https://eosio.github.io/eos](https://eosio.github.io/eos), official documents
 * [https://eos.readthedocs.io/zh_CN/latest](https://eos.readthedocs.io/zh_CN/latest), Chinese version of EOSIO documents

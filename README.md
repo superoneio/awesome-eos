@@ -16,6 +16,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 * [https://eos.live](https://eos.live)，EOS 竞选节点列表，by SuperONE
 * [https://www.imeos.one/block-producer](https://www.imeos.one/block-producer)，EOS 竞选节点列表，by IMEOS
+* [https://eosnodes.privex.io](https://eosnodes.privex.io)，privex.io 出品
 
 ### GitHub
 
@@ -143,6 +144,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ## 文档
 
 * [https://github.com/EOSIO/Documentation](https://github.com/EOSIO/Documentation)，EOSIO Documents
+* [TechnicalWhitePaper.md](https://github.com/EOSIO/Documentation/blob/master/zh-CN/TechnicalWhitePaper.md)，技术白皮书
 * [https://github.com/EOSIO/eos/wiki](https://github.com/EOSIO/eos/wiki)，官方 Wiki
 * [https://eosio.github.io/eos](https://eosio.github.io/eos)，EOS 官方文档
 * [https://eos.readthedocs.io/zh_CN/latest](https://eos.readthedocs.io/zh_CN/latest)，EOS.IO 中文文档
