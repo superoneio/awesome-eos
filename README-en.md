@@ -174,7 +174,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper), EOSDevHelper is a cross-platform EOS PC wallet tool, which is developed by OracleChain.io
 * [http://eosfactory.io](http://eosfactory.io), EOSFactory is a Python-based smart-contract development & testing framework (Win, Mac, Linux)
 * [https://fibos.io](https://fibos.io), JavaScript Toolchain for EOS
-* [developers.eos.io](https://developers.eos.io)
+* [https://developers.eos.io](https://developers.eos.io)
     - [Summary](https://developers.eos.io/eosio-home/docs)
     - [Overview](https://developers.eos.io/eosio-nodeos/docs/overview-1)
     - [Advanced guide](https://developers.eos.io/eosio-nodeos/docs/bios-boot-sequence)
