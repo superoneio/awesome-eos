@@ -12,6 +12,11 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 ## EOS Mainnet
 
+### Super Node
+
+* [https://eos.live](https://eos.live), EOS block producer candidate list, by SuperONE
+* [https://www.imeos.one/block-producer](https://www.imeos.one/block-producer), EOS block producer candidate list, by IMEOS
+
 ### Boot related
 
 * [https://github.com/eoscanada/eos-bios](https://github.com/eoscanada/eos-bios), Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad

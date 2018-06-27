@@ -12,6 +12,11 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ## EOS 主网
 
+### 超级节点
+
+* [https://eos.live](https://eos.live)，EOS 竞选节点列表，by SuperONE
+* [https://www.imeos.one/block-producer](https://www.imeos.one/block-producer)，EOS 竞选节点列表，by IMEOS
+
 ### 主网启动相关
 
 * [https://github.com/eoscanada/eos-bios](https://github.com/eoscanada/eos-bios)，Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad
