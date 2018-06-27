@@ -257,6 +257,14 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/activeeos/eos-helm](https://github.com/activeeos/eos-helm)，Kubernetes Helm charts for the EOS smart contracts platform
 * [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
 * [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
+* [RAM 价格趋势](https://dapp.mytokenpocket.vip/ram/index.html?t=3)
+* [RAM 价格计算器](https://www.marketstackd.io/ramcalculator.html)
+* [RAM、带宽、CPU 价格 / 成本计算](https://www.eosrp.io/#calc)
+* [RAM 价格、投票数、未支付区块数统计](https://eosmeta.io/statistics)
+* [EOS 主网 24 小时 / 7 天内 Action 数据统计](http://eos-bp-votes.dapptools.info/#/actions-summary)
+* [超级节点（BP）的世界分布](https://bp.eosgo.io)
+* [EOS 350 期众筹情况统计](https://eosscan.io)
+* [EOS 事件日历](https://kryptocal.com/coin/eos)
 
 ## EOS 钱包
 

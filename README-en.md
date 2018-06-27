@@ -257,6 +257,14 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/activeeos/eos-helm](https://github.com/activeeos/eos-helm), Kubernetes Helm charts for the EOS smart contracts platform
 * [https://github.com/eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook), Ansible playbook to dynamically deploy Dockerized nodeos
 * [https://github.com/eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost), Adjusting supply of a token and connector balance of bancor during final phase of boot
+* [RAM Price Trend](https://dapp.mytokenpocket.vip/ram/index.html?t=3)
+* [RAM Price Calculator](https://www.marketstackd.io/ramcalculator.html)
+* [RAM, Bandwidth, CPU Price/Costing](https://www.eosrp.io/#calc)
+* [RAM Price, Voting count, Unpaid blocks Statistics](https://eosmeta.io/statistics)
+* [EOS Mainnet 24 hours/7 days Action Data Statistics](http://eos-bp-votes.dapptools.info/#/actions-summary)
+* [Block Producer World distribution](https://bp.eosgo.io)
+* [EOS 350 Issues Crowdfunding statistics](https://eosscan.io)
+* [EOS Events Calendar](https://kryptocal.com/coin/eos)
 
 ## EOS wallet
 
