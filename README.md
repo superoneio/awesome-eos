@@ -53,6 +53,14 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://explorer.eoseco.com](https://explorer.eoseco.com)，EOS 生态区出品
 * [https://eosblock.co](https://eosblock.co)，EOSpace 出品
 * [http://scaneos.io](http://scaneos.io)，ScanEOS 是全球首个专注于 EOS 生态的专业区块链浏览器和数据分析平台
+    - [账户信息](https://scaneos.io/accounts)
+    - [区块信息](https://scaneos.io/blocks)
+    - [交易信息](https://scaneos.io/transactions)
+    - [Action 信息](https://scaneos.io/actions)
+    - [Token 信息](https://scaneos.io/tokens)
+    - [账号竞拍](https://scaneos.io/bidings)
+    - [投票进度](https://scaneos.io)
+    - [超级节点](https://scaneos.io/producers)
 * [http://eosflare.io](http://eosflare.io)，搜索账号、公钥、交易
     - [账户信息](https://eosflare.io/account/superoneiobp)
     - [交易信息](https://eosflare.io/tx/56f54f1b14ebcebb89184711ab7f0790a796219ad6851de64e44d372428d6de7)
