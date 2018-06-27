@@ -218,6 +218,14 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/EOS-Mainnet/eos/releases](https://github.com/EOS-Mainnet/eos/releases), community maintenance version by EOS-Mainnet
 * [EOS.IO Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md), EOS whitepaper
 
+### Video
+
+* [Huobi - EOS 20 Questions Series](https://mp.weixin.qq.com/s?__biz=MjM5MDE0NDEwMw==&amp;mid=504813486&amp;idx=1&amp;sn=2171e521e0a37e4aaa80ca0f37482c82&amp;chksm=3dab34a60adcbdb0681f37edf0622a3f029e2d91bbc633cdc00930ec7bcdbe8c170b43cf5bef&amp;scene=25#wechat_redirect)
+* [nsjames - YouTube](https://www.youtube.com/user/grandmoren1)
+* [CodingWithCrypto - YouTube](https://www.youtube.com/user/magicmanxpress/videos)
+* [Jackson Kelley - YouTube](https://www.youtube.com/channel/UCN66Pz78qCMzGa1eNdBxWfQ)
+* [Building Distributed Apps With EOS.IO Blockchain - YouTube](https://bihu.com/article/761325)
+
 ## Tools
 
 ### Account related tools
