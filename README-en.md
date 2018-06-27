@@ -54,6 +54,11 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://eosblock.co](https://eosblock.co), presented by EOSpace
 * [http://scaneos.io](http://scaneos.io), ScanEOS is the world's first professional blockchain explorer and data analysis platform that focuses on EOS ecosystem
 * [http://eosflare.io](http://eosflare.io), search account, public key, transaction
+    - [Account Information](https://eosflare.io/account/superoneiobp)
+    - [Transaction Information](https://eosflare.io/tx/56f54f1b14ebcebb89184711ab7f0790a796219ad6851de64e44d372428d6de7)
+    - [Public Key Information](https://eosflare.io/key/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7)
+    - [Account Bid](https://eosflare.io/bidname)
+    - [Voter Ranking](https://eosflare.io/voters)
 * [https://eospark.com](https://eospark.com), presented by tencent
     - [Account Information](https://eospark.com/MainNet/account/superoneiobp)
     - [Block Information](https://eospark.com/MainNet/block/208329)
