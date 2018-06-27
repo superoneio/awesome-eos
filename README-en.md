@@ -12,7 +12,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 
 ## EOS Mainnet
 
-### Super Node
+### Block Producer
 
 * [https://eos.live](https://eos.live), EOS block producer candidate list, by SuperONE
 * [https://www.imeos.one/block-producer](https://www.imeos.one/block-producer), EOS block producer candidate list, by IMEOS
@@ -55,6 +55,13 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://scaneos.io](http://scaneos.io), ScanEOS is the world's first professional blockchain explorer and data analysis platform that focuses on EOS ecosystem
 * [http://eosflare.io](http://eosflare.io), search account, public key, transaction
 * [https://eospark.com](https://eospark.com), presented by tencent
+    - [Account Information](https://eospark.com/MainNet/account/superoneiobp)
+    - [Block Information](https://eospark.com/MainNet/block/208329)
+    - [Transaction Information](https://eospark.com/MainNet/tx/a7a07d54953d46d4266082b42fbd6df1979027272a0dfc113bb3903bbeeb02f5)
+    - [Public Key Information](https://eospark.com/MainNet/address/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7)
+    - [Account Bid](https://eospark.com/MainNet/bidaccount)
+    - [Voting Progress](https://eospark.com/MainNet)
+    - [Block Producer](https://eospark.com/MainNet/bp/superoneiobp)
 * [https://m.eosnode.info](https://m.eosnode.info), presented by EOSTEA
 * [https://eosmonitor.io](https://eosmonitor.io), also EOSTEA's product
 
