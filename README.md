@@ -195,8 +195,13 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/blockproducers](https://medium.com/blockproducers)，EOS 区块链矿工和出块节点背后的故事
 * [https://bihu.com/people/9457](https://bihu.com/people/9457)，EOS Cannon 技术总监 Bean 币乎首页
 * [https://bihu.com/people/5402](https://bihu.com/people/5402)，荆凯币乎首页
+    - [https://www.jianshu.com/u/29f865fe3598](https://www.jianshu.com/u/29f865fe3598)
 * [http://www.cnblogs.com/Evsward](http://www.cnblogs.com/Evsward)，醒者呆博客
 * [https://blog.eos42.io](https://blog.eos42.io)，EOS42 博客
+* [https://medium.com/@thomas.cox_39839](https://medium.com/@thomas.cox_39839)，Thomas Cox
+* [https://medium.com/@eosiosg](https://medium.com/@eosiosg)，EOSIO.SG
+* [http://www.8btc.com/author/48198](http://www.8btc.com/author/48198)，极简主义
+* [https://www.jianshu.com/u/a7e82863b3e2](https://www.jianshu.com/u/a7e82863b3e2)，Lochaiching
 
 ### 空投
 

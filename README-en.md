@@ -195,8 +195,13 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://medium.com/blockproducers](https://medium.com/blockproducers), The tales of the miners and block producers behind the chains
 * [https://bihu.com/people/9457](https://bihu.com/people/9457), EOS Cannon CTO Bean's Bihu homepage
 * [https://bihu.com/people/5402](https://bihu.com/people/5402), shuke037's Bihu homepage
+    - [https://www.jianshu.com/u/29f865fe3598](https://www.jianshu.com/u/29f865fe3598)
 * [http://www.cnblogs.com/Evsward](http://www.cnblogs.com/Evsward), blog of Evsward
 * [https://blog.eos42.io](https://blog.eos42.io), blog of EOS42
+* [https://medium.com/@thomas.cox_39839](https://medium.com/@thomas.cox_39839), Thomas Cox
+* [https://medium.com/@eosiosg](https://medium.com/@eosiosg), EOSIO.SG
+* [http://www.8btc.com/author/48198](http://www.8btc.com/author/48198), minimalism
+* [https://www.jianshu.com/u/a7e82863b3e2](https://www.jianshu.com/u/a7e82863b3e2), Lochaiching
 
 ### Airdrop
 
