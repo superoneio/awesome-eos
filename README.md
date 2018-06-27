@@ -82,6 +82,11 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [超级节点](https://eospark.com/MainNet/bp/superoneiobp)
 * [https://m.eosnode.info](https://m.eosnode.info)，EOSTEA 出品
 * [https://eosmonitor.io](https://eosmonitor.io)，同样是 EOSTEA 的产品
+    - [账户信息](https://eosmonitor.io/accounts)
+    - [区块信息](https://eosmonitor.io/blocks)
+    - [交易信息](https://eosmonitor.io/transactions)
+    - [Token 信息](https://eosmonitor.io/coins)
+    - [超级节点](https://eosmeta.io)
 
 ### 主网投票状态
 
