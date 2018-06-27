@@ -233,6 +233,13 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Set Proxy](https://eostoolkit.io/vote/setproxy)
     - [Account Bid](https://toolkit.genereos.io/names)
     - [BP Claim Rewards](https://eostoolkit.io/block-producer/claim-rewards)
+* [https://www.myeoskit.com](https://www.myeoskit.com), by EOS Asia
+    - [Account/PublicKey/Tx Query](https://www.myeoskit.com/#/tx)
+    - [Create Account](https://www.myeoskit.com/#/tools)
+    - [Be Proxy](https://www.myeoskit.com/#/tools)
+    - [Set Proxy](https://www.myeoskit.com/#/tools)
+    - [Vote](https://www.myeoskit.com/#/vote)
+    - [Account Bid](https://www.myeoskit.com/#/names)
 
 ### Browser extensions
 

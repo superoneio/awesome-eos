@@ -233,6 +233,13 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [设置代理](https://eostoolkit.io/vote/setproxy)
     - [账号竞拍](https://toolkit.genereos.io/names)
     - [BP 声明收益](https://eostoolkit.io/block-producer/claim-rewards)
+* [https://www.myeoskit.com](https://www.myeoskit.com)，EOS Asia 出品
+    - [Account/PublicKey/Tx 查询](https://www.myeoskit.com/#/tx)
+    - [创建账户](https://www.myeoskit.com/#/tools)
+    - [成为代理](https://www.myeoskit.com/#/tools)
+    - [设置代理](https://www.myeoskit.com/#/tools)
+    - [投票](https://www.myeoskit.com/#/vote)
+    - [账号竞拍](https://www.myeoskit.com/#/names)
 
 ### 浏览器插件
 
