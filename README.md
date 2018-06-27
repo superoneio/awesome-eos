@@ -150,6 +150,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://eos.readthedocs.io/zh_CN/latest](https://eos.readthedocs.io/zh_CN/latest)，EOS.IO 中文文档
 * [https://www.eosdocs.io](https://www.eosdocs.io)，由 EOS New York 和 EOS Nation 维护
 * [https://github.com/EOS-Mainnet/Community-Launch-Docs](https://github.com/EOS-Mainnet/Community-Launch-Docs)，Community-Launch-Docs，by EOS-Mainnet
+* [EOSIO Resources](https://www.notion.so/EOSIO-Resources-b1eebd80eb494ddf8c9f9e4e7a25fa2b)
+* [https://github.com/EOS-Nation/Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS)，by EOS Nation
 
 ## 开发
 

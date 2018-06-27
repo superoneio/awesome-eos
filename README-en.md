@@ -150,6 +150,8 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://eos.readthedocs.io/zh_CN/latest](https://eos.readthedocs.io/zh_CN/latest), Chinese version of EOSIO documents
 * [https://www.eosdocs.io](https://www.eosdocs.io), maintained by EOS New York and EOS Nation
 * [https://github.com/EOS-Mainnet/Community-Launch-Docs](https://github.com/EOS-Mainnet/Community-Launch-Docs), Community-Launch-Docs by EOS-Mainnet
+* [EOSIO Resources](https://www.notion.so/EOSIO-Resources-b1eebd80eb494ddf8c9f9e4e7a25fa2b)
+* [https://github.com/EOS-Nation/Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS), by EOS Nation
 
 ## Development
 
