@@ -218,6 +218,21 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale)，Key Gen
 * [https://eosfans.io/tools/generate](https://eosfans.io/tools/generate)，一键生成私钥/公钥，EOSTEA 出品
 * [get-eoskey-from-ethkey](https://github.com/tokenbankteam/get-eoskey-from-ethkey)，用你的以太坊私钥找回丢失的 EOS，访问 [http://getfallbackeos.mytokenpocket.vip](http://getfallbackeos.mytokenpocket.vip)
+* [https://eostoolkit.io](https://eostoolkit.io)，GenerEOS 出品
+    - [Account/PublicKey 查询](https://eostoolkit.io/search)
+    - [创建账户](https://eostoolkit.io/create)
+    - [发送 EOS](https://eostoolkit.io/transfer)
+    - [抵押 EOS 获取带宽 / CPU](https://eostoolkit.io/account/delegate)
+    - [取消抵押 EOS 释放带宽 / CPU](https://eostoolkit.io/account/undelegate)
+    - [退回抵押的 EOS 到账户](https://eostoolkit.io/account/refund)
+    - [购买 RAM](https://eostoolkit.io/account/buyram)
+    - [出售 RAM](https://eostoolkit.io/account/sellram)
+    - [权限管理](https://eostoolkit.io/account/permissions)
+    - [投票](https://eostoolkit.io/vote/pick)
+    - [成为代理](https://eostoolkit.io/vote/beproxy)
+    - [设置代理](https://eostoolkit.io/vote/setproxy)
+    - [账号竞拍](https://toolkit.genereos.io/names)
+    - [BP 声明收益](https://eostoolkit.io/block-producer/claim-rewards)
 
 ### 浏览器插件
 

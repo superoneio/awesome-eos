@@ -218,6 +218,21 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://nadejde.github.io/eos-token-sale](https://nadejde.github.io/eos-token-sale), Key Gen
 * [https://eosfans.io/tools/generate](https://eosfans.io/tools/generate), One-click generation private key and pulic key, by EOSTEA
 * [get-eoskey-from-ethkey](https://github.com/tokenbankteam/get-eoskey-from-ethkey), Generate your EOS fallback key from ethereum private key, visit [http://getfallbackeos.mytokenpocket.vip](http://getfallbackeos.mytokenpocket.vip)
+* [https://eostoolkit.io](https://eostoolkit.io), by GenerEOS
+    - [Account/PublicKey Query](https://eostoolkit.io/search)
+    - [Create Account](https://eostoolkit.io/create)
+    - [Transfer EOS](https://eostoolkit.io/transfer)
+    - [Delegate EOS Get Bandwidth / CPU](https://eostoolkit.io/account/delegate)
+    - [Undelegate EOS Release Bandwidth / CPU](https://eostoolkit.io/account/undelegate)
+    - [Refund Delegate EOS to Account](https://eostoolkit.io/account/refund)
+    - [Buy RAM](https://eostoolkit.io/account/buyram)
+    - [Sell RAM](https://eostoolkit.io/account/sellram)
+    - [Permissions Management](https://eostoolkit.io/account/permissions)
+    - [Vote](https://eostoolkit.io/vote/pick)
+    - [Be Proxy](https://eostoolkit.io/vote/beproxy)
+    - [Set Proxy](https://eostoolkit.io/vote/setproxy)
+    - [Account Bid](https://toolkit.genereos.io/names)
+    - [BP Claim Rewards](https://eostoolkit.io/block-producer/claim-rewards)
 
 ### Browser extensions
 
