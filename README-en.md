@@ -104,7 +104,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Block Information](https://eosmonitor.io/blocks)
     - [Transaction Information](https://eosmonitor.io/transactions)
     - [Token Information](https://eosmonitor.io/coins)
-    - [Block Producer](https://eosmeta.io)
+    - [Block Producer](https://eosmonitor.io)
 * [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io), by CryptoLions
     - [Account Information](http://eosnetworkmonitor.io/#accountInfo:superoneiobp)
     - [Block Information](http://eosnetworkmonitor.io)
@@ -315,6 +315,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [EOS 350 Issues Crowdfunding statistics](https://eosscan.io)
 * [EOS Events Calendar](https://kryptocal.com/coin/eos)
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example), Sample code using CLion
+* [https://www.feexplorer.io/EOS_RAM_price](https://www.feexplorer.io/EOS_RAM_price), EOS RAM price history
 
 ## EOS wallet
 

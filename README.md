@@ -104,7 +104,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [区块信息](https://eosmonitor.io/blocks)
     - [交易信息](https://eosmonitor.io/transactions)
     - [Token 信息](https://eosmonitor.io/coins)
-    - [超级节点](https://eosmeta.io)
+    - [超级节点](https://eosmonitor.io)
 * [http://eosnetworkmonitor.io](http://eosnetworkmonitor.io)，CryptoLions 出品
     - [账户信息](http://eosnetworkmonitor.io/#accountInfo:superoneiobp)
     - [区块信息](http://eosnetworkmonitor.io)
@@ -315,6 +315,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [EOS 350 期众筹情况统计](https://eosscan.io)
 * [EOS 事件日历](https://kryptocal.com/coin/eos)
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example)，使用 CLion 的示例代码
+* [https://www.feexplorer.io/EOS_RAM_price](https://www.feexplorer.io/EOS_RAM_price)，EOS RAM 历史价格
 
 ## EOS 钱包
 
