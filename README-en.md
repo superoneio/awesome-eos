@@ -317,6 +317,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [EOS Events Calendar](https://kryptocal.com/coin/eos)
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example), Sample code using CLion
 * [https://www.feexplorer.io/EOS_RAM_price](https://www.feexplorer.io/EOS_RAM_price), EOS RAM price history
+* [eosDataConditionSearch](https://github.com/OracleChain/eosDataConditionSearch)
 
 ## EOS wallet
 

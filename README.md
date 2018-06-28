@@ -317,6 +317,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [EOS 事件日历](https://kryptocal.com/coin/eos)
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example)，使用 CLion 的示例代码
 * [https://www.feexplorer.io/EOS_RAM_price](https://www.feexplorer.io/EOS_RAM_price)，EOS RAM 历史价格
+* [eosDataConditionSearch](https://github.com/OracleChain/eosDataConditionSearch)
 
 ## EOS 钱包
 
