@@ -189,6 +189,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [nodeos](https://developers.eos.io/eosio-nodeos/docs/configuration-file)
     - [C/C++ API](https://developers.eos.io/eosio-cpp/reference)
     - [HTTP API](https://developers.eos.io/eosio-nodeos/reference)
+* [https://github.com/EOS-BP-Developers/EOS-Test-Cave](https://github.com/EOS-BP-Developers/EOS-Test-Cave), Automated testing framework for EOS validation
 
 ## Security
 

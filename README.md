@@ -189,6 +189,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [nodeos](https://developers.eos.io/eosio-nodeos/docs/configuration-file)
     - [C/C++ API](https://developers.eos.io/eosio-cpp/reference)
     - [HTTP API](https://developers.eos.io/eosio-nodeos/reference)
+* [https://github.com/EOS-BP-Developers/EOS-Test-Cave](https://github.com/EOS-BP-Developers/EOS-Test-Cave), EOS 校验自动化测试工具
 
 ## 安全
 
