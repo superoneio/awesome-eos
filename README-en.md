@@ -239,6 +239,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://medium.com/@eosiosg](https://medium.com/@eosiosg), EOSIO.SG
 * [http://www.8btc.com/author/48198](http://www.8btc.com/author/48198), minimalism
 * [https://www.jianshu.com/u/a7e82863b3e2](https://www.jianshu.com/u/a7e82863b3e2), Lochaiching
+* [https://bihu.com/people/484685](https://bihu.com/people/484685), animaeos
 
 ### Airdrop
 

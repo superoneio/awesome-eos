@@ -239,6 +239,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://medium.com/@eosiosg](https://medium.com/@eosiosg)，EOSIO.SG
 * [http://www.8btc.com/author/48198](http://www.8btc.com/author/48198)，极简主义
 * [https://www.jianshu.com/u/a7e82863b3e2](https://www.jianshu.com/u/a7e82863b3e2)，Lochaiching
+* [https://bihu.com/people/484685](https://bihu.com/people/484685), animaeos
 
 ### 空投
 
