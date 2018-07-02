@@ -153,6 +153,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover)，EOS 出块节点切换脚本，by Block Matrix
 * [https://github.com/eossv/bp-monitor](https://github.com/eossv/bp-monitor)，通过 head_block_time 检测节点出块状态，支持 email 提醒，也可配置电话/短信/自定义提醒，by EOS Silicon Valley
 * [eos-claimer](https://github.com/eoscanada/eos-claimer)，获取奖励工具，by EOS Canada
+* [https://github.com/EOSpace/eos-sync](https://github.com/EOSpace/eos-sync)，同步 EOS 区块链数据到 MongoDB 数据库，by EOSpace
 
 ## 文档
 

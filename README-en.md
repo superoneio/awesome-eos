@@ -153,6 +153,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover), EOS Block Producer Failover Scripts, by Block Matrix
 * [https://github.com/eossv/bp-monitor](https://github.com/eossv/bp-monitor), Detection producer node status via head_block_time, support for email alerts, and configuration of phone/text/custom alerts, by EOS Silicon Valley
 * [eos-claimer](https://github.com/eoscanada/eos-claimer), claim rewards tool, by EOS Canada
+* [https://github.com/EOSpace/eos-sync](https://github.com/EOSpace/eos-sync), Syncing the EOS blockchain data to mongodb database, by EOSpace
 
 ## Documents
 
