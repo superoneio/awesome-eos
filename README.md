@@ -296,6 +296,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [投票](https://www.myeoskit.com/#/vote)
     - [账号竞拍](https://www.myeoskit.com/#/names)
 * [https://eosauthority.com/alerts](https://eosauthority.com/alerts)，EOS 账号监控工具
+* [https://github.com/breakstring/savemyeosram](https://github.com/breakstring/savemyeosram)，释放掉发行的 EOS 空气代币所占用的内存
 
 ### 浏览器插件
 
