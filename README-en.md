@@ -297,6 +297,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Account Bid](https://www.myeoskit.com/#/names)
 * [https://eosauthority.com/alerts](https://eosauthority.com/alerts), EOS accounts alert tool
 * [https://github.com/breakstring/savemyeosram](https://github.com/breakstring/savemyeosram), Free up memory used by issued EOS air tokens
+* [EOSRescuer](https://peckshield.com/eosrescuer), Rescuing High-Risk EOS Accounts
 
 ### Browser extensions
 
