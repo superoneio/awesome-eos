@@ -295,6 +295,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [设置代理](https://www.myeoskit.com/#/tools)
     - [投票](https://www.myeoskit.com/#/vote)
     - [账号竞拍](https://www.myeoskit.com/#/names)
+* [https://eosauthority.com/alerts](https://eosauthority.com/alerts)，EOS 账号监控工具
 
 ### 浏览器插件
 

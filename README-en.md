@@ -295,6 +295,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Set Proxy](https://www.myeoskit.com/#/tools)
     - [Vote](https://www.myeoskit.com/#/vote)
     - [Account Bid](https://www.myeoskit.com/#/names)
+* [https://eosauthority.com/alerts](https://eosauthority.com/alerts), EOS accounts alert tool
 
 ### Browser extensions
 
