@@ -375,6 +375,23 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander) Open souce on GitHub
 * [https://github.com/eostea/eos-wallet](https://github.com/eostea/eos-wallet), by EOSTEA, VUE + JS, open source
 
+## Exchanges
+
+### Centralized Exchanges
+
+* [Chaince](https://chaince.com), A Superior Blockchain Asset Trading Platform Focusing on EOS Projects
+* [WhaleEx](https://whaleex.com), WhaleEx is world‘s first EOS based decentralized exchange with chain interoperability and high liquidity
+* [BigONE](https://big.one), BigONE is the next generation crypto trading platform and crypto-assets trusteeship platform created by blockchain professionals. We are crypto-coin enthusiasts from the world
+* [HADEX](https://www.hadax.com), Huobi Autonomous Digital Asset Exchange
+* [EOSFINEX](https://eosfinex.com), The World's First High Performance Decentralised Exchange
+* [ZBG](https://www.zbg.com), POS+POW trans-fee mining, a community-based trading platform
+
+### Decentralized Exchanges
+
+* [Newdex](https://newdex.io), The first global decentralized exchange built on EOS, support [SimpleWallet](https://github.com/southex/SimpleWallet) protocol
+* [SouthEX](https://southex.com), An EOS-based Decentralized Exchange
+* [DEXEOS](https://dexeos.io), The World Premier Decentralized Exchange on EOS
+
 ## Dapp
 
 ### Dapp Show

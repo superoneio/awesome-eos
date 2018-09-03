@@ -375,6 +375,23 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander)，GitHub 开源
 * [https://github.com/eostea/eos-wallet](https://github.com/eostea/eos-wallet)，EOSTEA 出品，VUE + JS，开源
 
+## 交易所
+
+### 中心化交易所
+
+* [畅思](https://chaince.com)，专注 EOS 生态的区块链资产精品交易平台
+* [鲸交所](https://whaleex.com)，全球首个基于 EOS 主链开发、支持跨链的高流动性去中心化交易所
+* [BigONE](https://big.one)，BigONE 是一家数字资产交易及托管平台，帮助用户寻找全球优质区块链资产，提供便捷的交易服务，以顶尖的技术和安全控制流程保障用户数字资产安全，帮助用户进行资产管理。BigONE 团队汇集了来自世界各地的区块链专家、极客和爱好者
+* [HADEX](https://www.hadax.com/zh-cn)，火币自主数字资产交易所
+* [EOSFINEX](https://eosfinex.com)，全球首个高性能去中心化交易所
+* [ZBG](https://www.zbg.com)，Pos+Pow 交易挖矿，社区化自治的交易平台
+
+### 去中心化交易所
+
+* [Newdex](https://newdex.io)，全球首家基于 EOS 的去中心化交易所，支持 [SimpleWallet](https://github.com/southex/SimpleWallet) 协议
+* [SouthEX](https://southex.com)，基于 EOS 的去中心化交易所
+* [DEXEOS](https://dexeos.io)，全球首家基于 EOS 的去中心化交易所
+
 ## Dapp
 
 ### Dapp 展示
