@@ -339,7 +339,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://meet.one/pomelo](https://meet.one/pomelo)，MeetOne 出品
 * [http://halowallet.io](http://halowallet.io)，EOS 引力区出品
 * [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip)，Token Pocket 团队出品
-* [https://token.im](https://token.im)，知名以太坊钱包，即将支持 EOS 主网投票
+* [https://token.im](https://token.im)，知名以太坊钱包，支持 EOS 主网投票
 * [http://www.medishares.org/wallet/cn](http://www.medishares.org/wallet/cn)，麦子钱包
 * [http://bitpie.com](http://bitpie.com)，比特派，老牌比特币钱包
 * [http://www.eosbixin.com](http://www.eosbixin.com)，Bixin 出品

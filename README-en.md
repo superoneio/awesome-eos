@@ -139,12 +139,12 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [eos-local-voting-page](https://github.com/EOSeco-team/eos-local-voting-page), by EOSeco
 * [https://vote.eosasia.one](https://vote.eosasia.one), by EOS Asia
 * [http://eosvoter.eosphere.io/vote](http://eosvoter.eosphere.io/vote), by EOSPhere
-* [https://token.im/download](https://token.im/download), imToken 2.0 support EOS super node voting
+* [https://token.im/download](https://token.im/download), imToken 2.0 support EOS block producer voting
 * [https://www.mytokenpocket.vip](https://www.mytokenpocket.vip), by Token Pocket team
 * [http://app.onechain.one/appstart.html](http://app.onechain.one/appstart.html), by ONEChain
 * [https://halowallet.io](https://halowallet.io), by EOS Gravity
 * [https://bepal.pro/Download](https://bepal.pro/Download), by Bepal
-* [https://eos.live/download](https://eos.live/download), EOS LIVE is developed by the SuperONE team and supports EOS Super Node voting, delegate voting, account registration RAM trade and other features
+* [https://eos.live/download](https://eos.live/download), EOS LIVE is developed by the SuperONE team and supports EOS block producer voting, delegate voting, account registration RAM trade and other features
 * [https://github.com/eoscanada/eosc](https://github.com/eoscanada/eosc), eosc is a cross-platform (Windows, Mac and Linux) command-line tool for interacting with an EOS.IO blockchain, by EOS Canada
 * [https://github.com/eoscannon/EosCannon-Offline-Tools](https://github.com/eoscannon/EosCannon-Offline-Tools), EOS offline voting, by EOS Cannon
 
@@ -349,7 +349,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [http://www.unlimitedip.io](http://www.unlimitedip.io), Uni-Wallet by UnlimitedIP, promotion video [click here](https://v.qq.com/x/page/e0685t5ypnp.html)
 * [http://eostoken.im](http://eostoken.im), Both Android and iOS can be downloaded
 * [https://more.top](https://more.top), MORE by IMEOS
-* [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS Super Node voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
+* [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS block producer voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
 * [https://cobo.com](https://cobo.com), Cobo Wallet, support EOS account registration
 
 ### Web wallet
