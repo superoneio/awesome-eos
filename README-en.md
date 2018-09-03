@@ -351,6 +351,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://more.top](https://more.top), MORE by IMEOS
 * [https://eos.live](https://eos.live), EOS LIVE is developed by the SuperONE team and supports EOS block producer voting, delegate voting, account registration and other functions. The SuperONE team will be released in the near future. Please wait for it
 * [https://cobo.com](https://cobo.com), Cobo Wallet, support EOS account registration
+* [https://kkwallet.com](https://kkwallet.com), KKWallet, support free EOS account creation, transfer, EOS mainstream tokens exchange, delegating as well as RAM trading
 
 ### Web wallet
 

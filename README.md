@@ -351,6 +351,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://more.top](https://more.top)，IMEOS 出品的 MORE 钱包
 * [https://eos.live/download](https://eos.live/download)，EOS LIVE 由 SuperONE 团队开发，支持 EOS 超级节点投票、委托投票、账号注册、RAM 买卖等功能
 * [https://cobo.com](https://cobo.com)，Cobo Wallet，支持 EOS 账号注册
+* [https://kkwallet.com](https://kkwallet.com)，KKWallet，支持免费创建 EOS 账户，转账、EOS 主流合约代币、质押及 RAM 交易等功能
 
 ### Web 钱包
 
