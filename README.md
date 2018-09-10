@@ -249,6 +249,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ### 导航
 
 * [https://index.eoscannon.io](https://index.eoscannon.io)，EOS 导航，by EOS Cannon
+* [https://tp-lab.github.io/EOS-Navigator](https://tp-lab.github.io/EOS-Navigator)，EOS 导航，by TP-Lab
 
 ### 下载
 

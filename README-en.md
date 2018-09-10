@@ -249,6 +249,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 ### Navigation
 
 * [https://index.eoscannon.io](https://index.eoscannon.io), EOS Navigation, by EOS Cannon
+* [https://tp-lab.github.io/EOS-Navigator](https://tp-lab.github.io/EOS-Navigator), EOS Navigation, TP-Lab
 
 ### Download
 
