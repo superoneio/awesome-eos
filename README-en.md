@@ -326,6 +326,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example), Sample code using CLion
 * [https://eos.feexplorer.io](https://eos.feexplorer.io), EOS RAM price history
 * [eosDataConditionSearch](https://github.com/OracleChain/eosDataConditionSearch)
+* [https://github.com/wangweiX/eosram-trading-robot](https://github.com/wangweiX/eosram-trading-robot), EOS RAM trading robot
 
 ## EOS wallet
 

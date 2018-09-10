@@ -326,6 +326,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 * [https://github.com/ukarlsson/eos-clion-example](https://github.com/ukarlsson/eos-clion-example)，使用 CLion 的示例代码
 * [https://eos.feexplorer.io](https://eos.feexplorer.io)，EOS RAM 历史价格
 * [eosDataConditionSearch](https://github.com/OracleChain/eosDataConditionSearch)
+* [https://github.com/wangweiX/eosram-trading-robot](https://github.com/wangweiX/eosram-trading-robot)，EOS RAM 交易机器人
 
 ## EOS 钱包
 
