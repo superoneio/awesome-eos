@@ -111,6 +111,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [区块信息](http://eosnetworkmonitor.io)
     - [交易信息](http://eosnetworkmonitor.io/#tx)
     - [超级节点](http://eosnetworkmonitor.io)
+* [https://bloks.io](https://bloks.io)，EOS CAFE 和 HKEOS 出品
 
 ### 主网投票状态
 
