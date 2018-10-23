@@ -90,7 +90,7 @@ A curated list of EOS Ecosystem. Submit PR refer [contributing](contributing.md)
     - [Public Key Information](https://eosflare.io/key/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7)
     - [Account Bid](https://eosflare.io/bidname)
     - [Voter Ranking](https://eosflare.io/voters)
-* [https://eospark.com](https://eospark.com), presented by tencent
+* [https://eospark.com](https://eospark.com), presented by BlockABC
     - [Account Information](https://eospark.com/MainNet/account/superoneiobp)
     - [Block Information](https://eospark.com/MainNet/block/208329)
     - [Transaction Information](https://eospark.com/MainNet/tx/a7a07d54953d46d4266082b42fbd6df1979027272a0dfc113bb3903bbeeb02f5)

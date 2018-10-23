@@ -90,7 +90,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
     - [公钥信息](https://eosflare.io/key/EOS7boot47hMPjKuLGrkvTPi818kkHqMvPWK7483Yfm7PwuJUMca7)
     - [账号竞拍](https://eosflare.io/bidname)
     - [投票者排名](https://eosflare.io/voters)
-* [https://eospark.com](https://eospark.com)，腾讯团队出品
+* [https://eospark.com](https://eospark.com)，BlockABC 团队出品
     - [账户信息](https://eospark.com/MainNet/account/superoneiobp)
     - [区块信息](https://eospark.com/MainNet/block/208329)
     - [交易信息](https://eospark.com/MainNet/tx/a7a07d54953d46d4266082b42fbd6df1979027272a0dfc113bb3903bbeeb02f5)
